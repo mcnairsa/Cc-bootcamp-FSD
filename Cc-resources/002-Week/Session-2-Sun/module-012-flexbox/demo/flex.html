@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="flex.css" />
+  </head>
+  <body>
+    <!-- Flex container
+     the thing we add flex to -->
+    <section class="container">
+      <!-- Flex items -->
+
+      <div>item 1</div>
+      <div id="item2">item 2</div>
+      <div>item 3</div>
+      <div>item 4</div>
+    </section>
+
+    <h2>We flex direct children</h2>
+
+    <section class="container">
+      <!-- Flex items -->
+      <!-- the article is flexed -->
+      <article>
+        <!-- because article is not a flex container these stack -->
+        <div>item 1</div>
+        <div>item 2</div>
+      </article>
+
+      <article>
+        <!-- same thing applies for these two -->
+        <div>item 3</div>
+        <div>item 4</div>
+      </article>
+    </section>
+  </body>
+</html>

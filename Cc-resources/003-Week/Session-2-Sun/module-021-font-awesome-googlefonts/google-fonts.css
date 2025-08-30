@@ -1,0 +1,7 @@
+/* No more than 2 or three fonts
+per page */
+
+h1 {
+    /* we have a potential problem */
+    font-family: DynaPuff, Arial, "Times New Roman";
+}

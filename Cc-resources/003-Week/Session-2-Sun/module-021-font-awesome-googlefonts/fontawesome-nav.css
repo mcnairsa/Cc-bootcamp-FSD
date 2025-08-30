@@ -1,0 +1,24 @@
+  .main-nav {
+    display: flex;
+    gap: 2rem;
+  }
+
+  .main-nav a {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    text-decoration: none;
+    color: #333;
+    padding: 0.5rem 1rem;
+    border-radius: 8px;
+    transition: all 0.3s ease;
+  }
+
+  .main-nav a:hover {
+    background-color: #f8f9fa;
+    color: #3498db;
+  }
+
+  .main-nav i {
+    font-size: 1.1rem;
+  }

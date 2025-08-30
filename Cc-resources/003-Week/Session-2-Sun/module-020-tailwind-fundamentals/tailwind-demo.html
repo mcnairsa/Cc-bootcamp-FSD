@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <script
+      defer
+      src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"
+    ></script>
+  </head>
+  <body>
+    <!-- Tailwind concepts -->
+
+    <!-- Spacing scale that goes in increments of 4px -->
+
+    <!-- p-4 - is 16 pixels of padding -->
+    <!-- m-2 - is 8 pixels of margin -->
+    <!-- px-6 - is 24 px of left and right padding -->
+    <!-- mt-8 - is 32px of margin-top  -->
+
+    <div class="p-4 m-2 px-6 mt-8">Spaced content</div>
+
+    <!-- Colors -->
+
+    <!-- bg-blue-500 - blue background -->
+    <!-- text-red-600 for red text -->
+
+    <div class="bg-blue-900 text-yellow-200 border-gray-300">Colorful box</div>
+
+    <!-- Flex -->
+
+    <!-- 
+    flex - display: flex
+    justify-center = center horizontially
+    item-center = center vertically
+    flex-col
+    -->
+
+    <div class="flex justify-center items-center">Centered content</div>
+
+    <!-- Responsive Design -->
+
+    <!-- 
+     mobile first - defaults to mobile
+
+     moving up the breakpoint chain
+
+     sm = 640px and up
+     md = 768px and up
+     lg = 1024px and up
+    
+    -->
+
+    <div class="flex flex-col md:flex-row items-center gap-4">
+      <div class="text-sm md:text-lg lg:text-xl">Responsive text</div>
+      <button class="px-4 py-2 bg-blue-500 text-white rounded">Button</button>
+    </div>
+
+    <!-- Hover States -->
+
+    <!-- add :hover to any class name a a postfix -->
+
+    <button class="bg-blue-500 hover:bg-blue-800">Hover me</button>
+
+    <!-- Card component example -->
+
+    <div class="bg-white p-6 rounded-lg shadow-md max-w-sm w-full">
+      <h2 class="text-xl font-bold mb-4">Card Title</h2>
+      <p class="text-gray-600">Card content goes here.</p>
+    </div>
+
+    <!-- Navigation Example -->
+
+    <nav class="flex justify-between items-center p-4 bg-gray-800">
+      <div class="text-white font-bold flex items-center">
+        <img
+          src="https://img.logo.dev/logo.dev"
+          class="h-8 w-8 mr-2"
+          alt="randomlogo"
+        />
+        <span>My Brand</span>
+      </div>
+      <div class="space-x-4">
+        <a href="#" class="text-gray-300 hover:text-white">Home</a>
+        <a href="#" class="text-gray-300 hover:text-white">About</a>
+      </div>
+    </nav>
+  </body>
+</html>
