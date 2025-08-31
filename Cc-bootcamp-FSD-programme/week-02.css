@@ -1,0 +1,29 @@
+* {
+  font-family: sans-serif;
+  }
+  
+.grid-container {
+  display: grid;
+  grid-template-areas:
+  "week-number week-topic session-container"
+  "week-number week-topic session-container"
+  "week-number week-topic session-container"
+  "week-number week-topic project-container";
+  grid-template-columns: 1fr 2fr 9fr;
+  }
+  
+.week-number {
+  grid-area: week-number; 
+  }
+  
+.week-topic {
+  grid-area: week-topic;
+  }
+
+.session-container {
+  grid-area: session-container;
+  }
+
+.project-container {
+  grid-area: project-container;
+  }

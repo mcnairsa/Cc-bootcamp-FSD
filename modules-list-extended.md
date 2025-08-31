@@ -34,9 +34,9 @@
 | 5/1     | 1:40 | 32     | Advanced JavaScript & DOM                         | Arrays and Array Method                                                                                        |
 | 5/1     | 2:40 | 33     | Advanced JavaScript & DOM                         | Objects and Object Methods                                                                                     |
 | 5/1     | 3:02 | 34     | Advanced JavaScript & DOM                         | Destructuring, Spread Operator[3:19]                                                                              |
-| 5       | 7       | 35     | Advanced JavaScript & DOM                         | DOM Selection, Manipulation                                                                                    |
-| 5       | 8       | 36     | Advanced JavaScript & DOM                         | Events - Handling, Bubbling, Event Loop                                                                        |
-| 5       | 8       | 37     | Advanced JavaScript & DOM                         | Form Processing, Local Storage                                                                                 |
+| 5/2     | 0:15 | 35     | Advanced JavaScript & DOM                         | DOM Selection, Manipulation                                                                                    |
+| 5       | 1:20 | 36     | Advanced JavaScript & DOM                         | Events - Handling, Bubbling [?2:10], Event Loop []                                                                       |
+| 5       | 2:53 | 37     | Advanced JavaScript & DOM                         | Form Processing, Local Storage                                                                                 |
 | 5       | 8       | 38     | Advanced JavaScript & DOM                         | PROJECT: Todo List App                                                                                         |
 | 6       | 8       | 39     | APIs & Asynchronous JavaScript                    | Working with APIs, Fetch API                                                                                   |
 | 6       | 8       | 40     | APIs & Asynchronous JavaScript                    | JSON, Error Handling                                                                                           |
