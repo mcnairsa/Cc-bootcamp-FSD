@@ -30,10 +30,10 @@
 | 4       | 6       | 28     | Git & JavaScript Fundamentals                     | Debugging Intro                                                                                                |
 | 4       | 6       | 29     | Git & JavaScript Fundamentals                     | GitHub Portfolio Setup                                                                                         |
 | 4       | 6       | 30     | Git & JavaScript Fundamentals                     | PROJECT: GitHub Portfolio Setup & Interactive Calculator                                                       |
-| 5       | 7       | 31     | Advanced JavaScript & DOM                         | Arrow Functions, Higher Order Functions                                                                        |
-| 5       | 7       | 32     | Advanced JavaScript & DOM                         | Arrays and Array Method                                                                                        |
-| 5       | 7       | 33     | Advanced JavaScript & DOM                         | Objects and Object Methods                                                                                     |
-| 5       | 7       | 34     | Advanced JavaScript & DOM                         | Destructuring, Spread Operator                                                                                 |
+| 5/1     | 0:45    | 31     | Advanced JavaScript & DOM                         | Arrow Functions, Higher Order Functions                                                                        |
+| 5/1     | 1:40    | 32     | Advanced JavaScript & DOM                         | Arrays and Array Method                                                                                        |
+| 5/1     | 2:40    | 33     | Advanced JavaScript & DOM                         | Objects and Object Methods                                                                                     |
+| 5/1     | 3:02    | 34     | Advanced JavaScript & DOM                         | Destructuring, Spread Operator[3:19]                                                                              |
 | 5       | 7       | 35     | Advanced JavaScript & DOM                         | DOM Selection, Manipulation                                                                                    |
 | 5       | 8       | 36     | Advanced JavaScript & DOM                         | Events - Handling, Bubbling, Event Loop                                                                        |
 | 5       | 8       | 37     | Advanced JavaScript & DOM                         | Form Processing, Local Storage                                                                                 |
