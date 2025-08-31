@@ -29,23 +29,23 @@
 | 4/2     | 0:18 | 27     | Git & JavaScript Fundamentals                     | Functions, Scope [0:50]                                                                                              |
 | 4/2     | 1:22 | 28     | Git & JavaScript Fundamentals                     | Debugging Intro                                                                                                |
 | 4/2     | 2:22 | 29     | Git & JavaScript Fundamentals                     | GitHub Portfolio Setup                                                                                         |
-| 4/2     | 3:18 | 30     | Git & JavaScript Fundamentals                     | PROJECT: GitHub Portfolio Setup & Interactive Calculator [4:10]                                                      |
+| 4/2     | 3:18 | 30     | Git & JavaScript Fundamentals                     | PROJECT: GitHub Portfolio Setup & Interactive Calculator [4:10]
 | 5/1     | 0:45 | 31     | Advanced JavaScript & DOM                         | Arrow Functions, Higher Order Functions                                                                        |
 | 5/1     | 1:40 | 32     | Advanced JavaScript & DOM                         | Arrays and Array Method                                                                                        |
 | 5/1     | 2:40 | 33     | Advanced JavaScript & DOM                         | Objects and Object Methods                                                                                     |
 | 5/1     | 3:02 | 34     | Advanced JavaScript & DOM                         | Destructuring, Spread Operator[3:19]                                                                              |
 | 5/2     | 0:15 | 35     | Advanced JavaScript & DOM                         | DOM Selection, Manipulation                                                                                    |
-| 5       | 1:20 | 36     | Advanced JavaScript & DOM                         | Events - Handling, Bubbling [?2:10], Event Loop []                                                                       |
-| 5       | 2:53 | 37     | Advanced JavaScript & DOM                         | Form Processing, Local Storage                                                                                 |
-| 5       | 8       | 38     | Advanced JavaScript & DOM                         | PROJECT: Todo List App                                                                                         |
-| 6       | 8       | 39     | APIs & Asynchronous JavaScript                    | Working with APIs, Fetch API                                                                                   |
-| 6       | 8       | 40     | APIs & Asynchronous JavaScript                    | JSON, Error Handling                                                                                           |
-| 6       | 9       | 41     | APIs & Asynchronous JavaScript                    | Callbacks                                                                                                      |
-| 6       | 9       | 42     | APIs & Asynchronous JavaScript                    | Promises                                                                                                       |
-| 6       | 9       | 43     | APIs & Asynchronous JavaScript                    | Async/Await                                                                                                    |
-| 6       | 9       | 44     | APIs & Asynchronous JavaScript                    | Exploring Free APIs, Postman                                                                                   |
-| 6       | 9       | 45     | APIs & Asynchronous JavaScript                    | Multiple API calls, Data Processing                                                                            |
-| 6       | 10      | 46     | APIs & Asynchronous JavaScript                    | PROJECT: Major Project #2 - Vanilla JS frontend, API integration with one or more APIs                         |
+| 5/2     | 1:20 | 36     | Advanced JavaScript & DOM                         | Events - Handling, Bubbling [?2:10], Event Loop []                                                                       |
+| 5/2     | 2:53 | 37     | Advanced JavaScript & DOM                         | Form Processing, Local Storage [3:20]                                                                                |
+| 5/2     | 3:45 | 38     | Advanced JavaScript & DOM                         | PROJECT: Todo List App                                                                                         |
+| 6     | 8       | 39     | APIs & Asynchronous JavaScript                    | Working with APIs, Fetch API                                                                                   |
+| 6     | 8       | 40     | APIs & Asynchronous JavaScript                    | JSON, Error Handling                                                                                           |
+| 6     | 9       | 41     | APIs & Asynchronous JavaScript                    | Callbacks                                                                                                      |
+| 6     | 9       | 42     | APIs & Asynchronous JavaScript                    | Promises                                                                                                       |
+| 6     | 9       | 43     | APIs & Asynchronous JavaScript                    | Async/Await                                                                                                    |
+| 6     | 9       | 44     | APIs & Asynchronous JavaScript                    | Exploring Free APIs, Postman                                                                                   |
+| 6     | 9       | 45     | APIs & Asynchronous JavaScript                    | Multiple API calls, Data Processing                                                                            |
+| 6     | 10      | 46     | APIs & Asynchronous JavaScript                    | PROJECT: Major Project #2 - Vanilla JS frontend, API integration with one or more APIs                         |
 | 7       | 10      | 47     | React Fundamentals                                | Introduction to React and the Virtual DOM, React vs Vanilla JS                                                 |
 | 7       | 10      | 48     | React Fundamentals                                | JSX, Components, Props                                                                                         |
 | 7       | 10      | 49     | React Fundamentals                                | State Management with useState                                                                                 |
