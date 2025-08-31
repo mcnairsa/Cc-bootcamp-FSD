@@ -1,39 +1,39 @@
 | Wk/Ssn  | Time | Module | Subject                                           | Topics                                                                                                         | Notes                   |
 | ------- | -----| ------ | ------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |      |
-| 1       | 1       | 1      | HTML Fundamentals                                 | Onboarding + IDE, AI for Learning, Intro to Web Development                                                    |      |
-| 1       | 1       | 2      | HTML Fundamentals                                 | HTML5 Document Structure, Doctype, Elements, Attributes, Emmet, W3C Validator                                  |      |
-| 1       | 1       | 3      | HTML Fundamentals                                 | Semantic Elements, inline, block                                                                               |      |
-| 1       | 1       | 4      | HTML Fundamentals                                 | Headers, Paragraphs, and MDN Docs                                                                              |      |
-| 1       | 1       | 5      | HTML Fundamentals                                 | Tables, Lists, Links and Navigation                                                                            |      |
-| 1       | 2       | 6      | HTML Fundamentals                                 | HTML Forms & Input Types                                                                                       |      |
-| 1       | 2       | 7      | HTML Fundamentals                                 | PROJECT: Personal Bio Page HTML Only                                                                           |      |
-| 2       | 2       | 8      | CSS Fundamentals & Layout                         | CSS Basics: Selectors, Rulesets, Properties                                                                    |      |
-| 2       | 2       | 9      | CSS Fundamentals & Layout                         | Box Model                                                                                                      |      |
-| 2       | 2       | 10     | CSS Fundamentals & Layout                         | Typography, Colors, Display & Position                                                                         |      |
-| 2       | 3       | 11     | CSS Fundamentals & Layout                         | Chrome Dev Tools Intro                                                                                         |      |
-| 2       | 3       | 12     | CSS Fundamentals & Layout                         | Flexbox                                                                                                        |      |
-| 2       | 3       | 13     | CSS Fundamentals & Layout                         | CSS Grid Layout                                                                                                |      |
-| 2       | 3       | 14     | CSS Fundamentals & Layout                         | Specificity, Responsive Design with Media Queries                                                              |      |
-| 2       | 3       | 15     | CSS Fundamentals & Layout                         | PROJECT: Styled Landing Page                                                                                   |      |
-| 3/1     | 4       | 16     | Advanced CSS & Frameworks                         | CSS Animations                                                                                                 |      |
-| 3/1     | 1:20    | 17     | Advanced CSS & Frameworks                         | CSS Transitions [?], Transform [?], Advanced Selectors [2:10], Pseudo-elements                                                | 1:20 |
-| 3/1     | 2:38    | 18     | Advanced CSS & Frameworks                         | Intro to UI Frameworks/Libraries<!-- , Pico[2:42], Bootstrap [2:57], Tailwind (brief introduction)[3:04], Animate.css, Animista, CSS Animation Kit --> |
-| 3       | 4       | 19     | Advanced CSS & Frameworks                         | Bootstrap Fundamentals: Components, Utilities, Grid System                                                     |
-| 3       | 4       | 20     | Advanced CSS & Frameworks                         | Tailwind Fundamentals                                                                                          |
-| 3       | 5       | 21     | Advanced CSS & Frameworks                         | Google Fonts, Font Awesome                                                                                     |
-| 3       | 5       | 22     | Advanced CSS & Frameworks                         | PROJECT: Major Project #1 - Responsive design with animations                                                  |
-| 4/1     | 0:16    | 23     | Git & JavaScript Fundamentals                     | Git and Github Fundamentals: Installation, Repository Setup, Account Setup                                     |
-| 4/1     | ?       | 24     | Git & JavaScript Fundamentals                     | Git Basic Commands, Branching and Merging                                                                      |
-| 4/1     | 5       | 25     | Git & JavaScript Fundamentals                     | JavaScript Basics: Variables(let/const/var), Data Types                                                        |
-| 4/1     | 6       | 26     | Git & JavaScript Fundamentals                     | Operators, Control Flow, Loops, Conditionals                                                                   |
-| 4       | 6       | 27     | Git & JavaScript Fundamentals                     | Functions, Scope                                                                                               |
-| 4       | 6       | 28     | Git & JavaScript Fundamentals                     | Debugging Intro                                                                                                |
-| 4       | 6       | 29     | Git & JavaScript Fundamentals                     | GitHub Portfolio Setup                                                                                         |
-| 4       | 6       | 30     | Git & JavaScript Fundamentals                     | PROJECT: GitHub Portfolio Setup & Interactive Calculator                                                       |
-| 5/1     | 0:45    | 31     | Advanced JavaScript & DOM                         | Arrow Functions, Higher Order Functions                                                                        |
-| 5/1     | 1:40    | 32     | Advanced JavaScript & DOM                         | Arrays and Array Method                                                                                        |
-| 5/1     | 2:40    | 33     | Advanced JavaScript & DOM                         | Objects and Object Methods                                                                                     |
-| 5/1     | 3:02    | 34     | Advanced JavaScript & DOM                         | Destructuring, Spread Operator[3:19]                                                                              |
+| 1/1     | 0:12 | 1      | HTML Fundamentals                                 | Onboarding + IDE [1:00], AI for Learning [1:18], Intro to Web Development [0:38]                                               |      |
+| 1/1     | 1:34 | 2      | HTML Fundamentals                                 | HTML5 Document Structure, Doctype, Elements, Attributes, Emmet, W3C Validator                                  |      |
+| 1/1     | 2:33 | 3      | HTML Fundamentals                                 | Semantic Elements, block vs inline [2:46]                                                                               |      |
+| 1/1     | 3:33 | 4      | HTML Fundamentals                                 | Headers [3:15], Paragraphs, and MDN Docs [3:33]                                                                             |      |
+| 1/2     | 1:05 | 5      | HTML Fundamentals                                 | Tables, Lists [1:30], Links [1:54] and Navigation                                                                            |      |
+| 1/2     | 2:26 | 6      | HTML Fundamentals                                 | HTML Forms & Input Types                                                                                       |      |
+| 1/2     | 3:26 | 7      | HTML Fundamentals                                 | PROJECT: Personal Bio Page HTML Only                                                                           |      |
+| 2/1     | 0:12 | 8      | CSS Fundamentals & Layout                         | CSS Basics: Selectors, Rulesets, Properties                                                                    |      |
+| 2/1     | 2    | 9      | CSS Fundamentals & Layout                         | Box Model                                                                                                      |      |
+| 2/1     | 2    | 10     | CSS Fundamentals & Layout                         | Typography, Colors, Display & Position                                                                         |      |
+| 2       | 3    | 11     | CSS Fundamentals & Layout                         | Chrome Dev Tools Intro                                                                                         |      |
+| 2/2     | 3    | 12     | CSS Fundamentals & Layout                         | Flexbox                                                                                                        |      |
+| 2/2     | 3    | 13     | CSS Fundamentals & Layout                         | CSS Grid Layout                                                                                                |      |
+| 2/2     | 3    | 14     | CSS Fundamentals & Layout                         | Specificity, Responsive Design with Media Queries                                                              |      |
+| 2/2     | 3    | 15     | CSS Fundamentals & Layout                         | PROJECT: Styled Landing Page                                                                                   |      |
+| 3/1     | 4    | 16     | Advanced CSS & Frameworks                         | CSS Animations                                                                                                 |      |
+| 3/1     | 1:20 | 17     | Advanced CSS & Frameworks                         | CSS Transitions [?], Transform [?], Advanced Selectors [2:10], Pseudo-elements                                                | 1:20 |
+| 3/1     | 2:38 | 18     | Advanced CSS & Frameworks                         | Intro to UI Frameworks/Libraries<!-- , Pico[2:42], Bootstrap [2:57], Tailwind (brief introduction)[3:04], Animate.css, Animista, CSS Animation Kit --> |
+| 3/1     |      | 19     | Advanced CSS & Frameworks                         | Bootstrap Fundamentals: Components, Utilities, Grid System                                                     |
+| 3/2     | 0:17 | 20     | Advanced CSS & Frameworks                         | Tailwind Fundamentals                                                                                          |
+| 3/2     | 1:21 | 21     | Advanced CSS & Frameworks                         | Google Fonts, Font Awesome [2:11]                                                                                    |
+| 3/2     | 2:36 | 22     | Advanced CSS & Frameworks                         | PROJECT: Major Project #1 - Responsive design with animations                                                  |
+| 4/1     | 0:16 | 23     | Git & JavaScript Fundamentals                     | Git and Github Fundamentals: Installation, Repository Setup, Account Setup                                     |
+| 4/1     | ?    | 24     | Git & JavaScript Fundamentals                     | Git Basic Commands, Branching and Merging                                                                      |
+| 4/1     | 5    | 25     | Git & JavaScript Fundamentals                     | JavaScript Basics: Variables(let/const/var), Data Types                                                        |
+| 4/1     | 6    | 26     | Git & JavaScript Fundamentals                     | Operators, Control Flow, Loops, Conditionals                                                                   |
+| 4/2     | 0:18 | 27     | Git & JavaScript Fundamentals                     | Functions, Scope [0:50]                                                                                              |
+| 4/2     | 1:22 | 28     | Git & JavaScript Fundamentals                     | Debugging Intro                                                                                                |
+| 4/2     | 2:22 | 29     | Git & JavaScript Fundamentals                     | GitHub Portfolio Setup                                                                                         |
+| 4/2     | 3:18 | 30     | Git & JavaScript Fundamentals                     | PROJECT: GitHub Portfolio Setup & Interactive Calculator [4:10]                                                      |
+| 5/1     | 0:45 | 31     | Advanced JavaScript & DOM                         | Arrow Functions, Higher Order Functions                                                                        |
+| 5/1     | 1:40 | 32     | Advanced JavaScript & DOM                         | Arrays and Array Method                                                                                        |
+| 5/1     | 2:40 | 33     | Advanced JavaScript & DOM                         | Objects and Object Methods                                                                                     |
+| 5/1     | 3:02 | 34     | Advanced JavaScript & DOM                         | Destructuring, Spread Operator[3:19]                                                                              |
 | 5       | 7       | 35     | Advanced JavaScript & DOM                         | DOM Selection, Manipulation                                                                                    |
 | 5       | 8       | 36     | Advanced JavaScript & DOM                         | Events - Handling, Bubbling, Event Loop                                                                        |
 | 5       | 8       | 37     | Advanced JavaScript & DOM                         | Form Processing, Local Storage                                                                                 |
