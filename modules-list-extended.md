@@ -1,4 +1,5 @@
-| Wk/Ssn  | Time | Module | Subject                                           | Topics                                                                                                         | Notes                   |
+| ------- | ---- | ------ | ----------------------------------------------------------------------------------------------------------------------------------------                                                    
+| Wk/Ssn  | Time | Module | Subject                                           | Topics                                                                                                         |Notes          
 | ------- | -----| ------ | ------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |      |
 | 1/1     | 0:12 | 1      | HTML Fundamentals                                 | Onboarding + IDE [1:00], AI for Learning [1:18], Intro to Web Development [0:38]                                               |      |
 | 1/1     | 1:34 | 2      | HTML Fundamentals                                 | HTML5 Document Structure, Doctype, Elements, Attributes, Emmet, W3C Validator                                  |      |
