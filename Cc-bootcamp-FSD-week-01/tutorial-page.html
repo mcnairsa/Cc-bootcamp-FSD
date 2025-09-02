@@ -7,39 +7,57 @@
     <title>HTML Basics Tutorial</title>
 </head>
 <body>
-    <!-- TODO: Add main heading (h1) with "HTML Basics Tutorial" -->
-    
+    <h1>HTML Basics Tutorial</h1>
     <!-- TODO: Add introductory paragraph explaining what this tutorial covers -->
-    
+    <p>A brief journey through some of the essential HTML elements.</p>
     <!-- TODO: Add section heading (h2) with "Getting Started" -->
-    
+    <h2>Getting Started</h2>
     <!-- TODO: Add paragraph about what HTML stands for -->
     <!-- Hint: Use the <abbr> element for HTML abbreviation -->
-    
+    <p><abbr>HTML</abbr> or Hypertext Markup Language is a mark up scripting language used to create web pages. Marking up is a term used in print compositing. It traditionally means writing instructions to the print compositor to indicate text sizes, italics bold print and other features required for the final printed text.</p>
+    <p>HTML is made up of <em>elements</em>. Click <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML/anatomy-of-an-html-element.png">here </a>for a funky graphic of what an element looks like.</p>
+    <p>Did you work out that you had to click the browser back button to get back to this page? Well done you!</p>
+    <!--Note: it is possible to give an <abbr> element a title attribute thus: <abbr title="Hypertext Markup Language"> MDN recommeds you should only do this if expansion of the abbreviation in the text is not possible.-->
     <!-- TODO: Add subsection heading (h3) with "What You'll Learn" -->
-    
+    <h3>What You'll Learn</h3>
     <!-- TODO: Add paragraph listing what students will learn -->
     <!-- Hint: Use <strong> for important concepts -->
-    
+    <p>On this course you will learn the key HTML <strong>elements</strong> that are used to give <strong>structure</strong> to web pages as well as the principles of <strong>semantic</strong> HTML.</p>
     <!-- TODO: Add section heading (h2) with "Basic HTML Structure" -->
-    
+    <h2>Basic HTML Structure</h2>
     <!-- TODO: Add paragraph explaining HTML document structure -->
-    
+    An HTML document is organised as a tree with the root element of <code>&lt;html>...&lt;/html></code> and all other elements nested within it. See below for an example. Note also that in computer code and <em>data structures</em> trees are always <strong>upside down</strong> with the <strong>root</strong> at the <strong>top</strong> and the branches hanging <strong>down</strong>.
     <!-- TODO: Add subsection heading (h3) with "Code Example" -->
-    
+    <h3>Code example</h3>
     <!-- TODO: Add a code block showing basic HTML structure -->
     <!-- Hint: Use <pre> and <code> elements -->
-    
+    <p>At it's simplest an HTML codument is laid out as below...</p>
+        <pre><code>
+        <!-- Note: <pre>...</pre> preserves whitespace and browsers typically render <code>...</code> in a mono-spaced font like code examples in a textbook. If you want HTML code to appear as typed you have to put &lt; for the opening '<' of every tag.-->
+        &lt;!DOCTYPE html&gt;
+            &lt;html&gt;
+                &lt;head>
+                    &lt;!-- meta data i.e. information about the website
+                        how it was created and by whom goes in the 
+                        &lt;head> ... &lt;/head> element --&gt;
+                &lt;/head>
+                &lt;body>
+                    &lt;!-- The real stuff goes in the &lt;body> ...  &lt;/body> --&gt;
+                    &lt!-- This is an HTML <em>comment</em> by the way... --&gt;
+                &lt;/body>
+            &lt;/html>
+    </code></pre>
     <!-- TODO: Add section heading (h2) with "Text Formatting" -->
-    
+    <h2>Text Formatting</h2>
     <!-- TODO: Add paragraph demonstrating different text formatting -->
     <!-- Include: strong, em, mark, small, code elements -->
-    
+    <p>In HTML we have <em>elements</em> that can be used to add <e>emphasis</e>, spotlight the key <strong>concepts</strong> and <strong>ideas</strong> of the text, and even <mark>highlight</mark> text that we really want to stand out. In some circumstances we might want to make a sidecomment that separates something <small>like a licence reference</small>.</p>
     <!-- TODO: Add section heading (h2) with "Summary" -->
-    
+    <h2>Summary</h2>
     <!-- TODO: Add concluding paragraph with important takeaways -->
-
+    
     <!-- TODO: Add a clickable link to MDN (this one might be tricky to find the tag for) - lookup a on mdn-->
     <!-- Hint: Use emphasis and strong elements appropriately -->
+     <p>If you find yourself <em>all at sea</em> on your HTML learning journey just swim on over to the <strong>developer's goto</strong> for documentation <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">the Mozilla Developer Network</a>. A veritable waterspout of web dev knowledge.</p>
 </body>
 </html>
