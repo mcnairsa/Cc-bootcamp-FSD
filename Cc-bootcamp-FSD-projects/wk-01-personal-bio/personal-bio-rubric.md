@@ -7,7 +7,7 @@
 - [X] HTML5 document structure (DOCTYPE, html, head, body)
 - [X] Header with name and navigation menu
 - [X] Meta description and title optimization
-- [ ] Professional bio photo with descriptive alt text
+- [X] Professional bio photo with descriptive alt text
 - [X] Main content with 3 sections (about, skills, contact)
 - [ ] About section with personal bio paragraphs
 - [ ] Skills section with organized lists and categories
