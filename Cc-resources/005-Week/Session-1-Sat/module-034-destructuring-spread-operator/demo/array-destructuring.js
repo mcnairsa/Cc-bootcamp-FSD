@@ -24,8 +24,10 @@ console.log(person[1]);
 
 // I can assign two variables at once
 
-const [name, age] = getPerson();
+//const [name, age] = getPerson();
+//console.log(name)
+// swapping
+const [age, name] = getPerson();
 console.log(name)
-
 
 // look up the way to swap variables on array destructuring

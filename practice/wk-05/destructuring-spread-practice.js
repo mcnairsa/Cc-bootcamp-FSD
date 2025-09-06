@@ -20,15 +20,14 @@ const numbers = [1, 2, 3, 4, 5];
 // TODO: Use destructuring to extract firstName and age from the person object
 // Store them in variables with the same names
 // Write your code here:
-const {firstName, lastName, age, city} = person;
+
 
 // TODO: Use destructuring with renaming to extract city as 'location'
 // Write your code here:
 
 
 // Test (uncomment to see results):
-console.log('In the right src file?')
-console.log('First Name:', firstName);
+// console.log('First Name:', firstName);
 // console.log('Age:', age);
 // console.log('Location:', location);
 
