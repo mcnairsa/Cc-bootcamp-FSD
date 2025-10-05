@@ -1,0 +1,12 @@
+{
+  "name": "my-first-package",
+  "version": "1.0.0",
+  "description": "I'm just doing what Tyler says...",
+  "license": "MIT",
+  "author": "whydohumanscallmecraphead",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm fun test"
+  }
+}

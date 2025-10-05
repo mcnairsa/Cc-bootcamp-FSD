@@ -10,15 +10,22 @@
         <title>Sam McNair - Professional Bio</title>
     </head>
     <body>
+        <!-- Added ToDos for Accessibility see here: 
+         https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Accessibility/HTML
+         -->
+            <!-- ARIA roles -->
+            <!-- TAB ordering -->
         <!-- TODO: Add header with your name, professional title, and navigation -->
         <!-- Navigation should link to: #about, #skills, #contact -->
         <header>
-            <h1>Sam McNair - Quaker, Programmer, (over-)Thinker</h1>
+            <h1>Sam McNair - Professional Bio</h1>
             <nav>
                 <a href="#about">About</a>
                 <a href="#skills">Skills</a>
                 <a href="#contact">Contact</a>
             </nav>
+            <blockquote>Silence is the  language of G-d. All else is poor translation</blockquote>
+            <em>[Attributed to Rumi]</em>
         </header>
         <!-- TODO: Add main element -->
         <main>
@@ -27,31 +34,118 @@
             <h2>About Me</h2>
             <!-- Include: h2 "About Me", professional photo with alt text, 2-3 paragraphs about yourself -->
             <!-- So what's wrong with '60em' for the height and width? -->
+            <!--
                 <img
-                    src="images/IMG_1456.jpg"
+                    src="./images/sam-and-harvey-with-wedding-cert.png"
                     alt="Harvey and Sam"
-                    width="550" 
-                    height="400"
+                    width="450"
+                    height="500"
+                /> 
+                -->
+                <img
+                    src="./images/sam-and-harvey-with-wedding-cert.png"
+                    alt="Harvey and Sam"
+                    width="250"
+                    height="175"
                 />
+                <h3>Me</h3>
+                <p>Recovering Millennium Bug-hunter.</p> <p>Intending returnee to IT industry.</p><p>Some-time System36 and AS400 Analyst/Programmer and Project Leader.</p>
+                <h3>My Dream</h3>
+                <p>I am passionate about programming a better world. Programming aids logical thinking but does not of itself make us any less opinionated. I try to work according to the prinicple of 'coding with kindness'.</p>
+                <hr />
+
             </section>
             <!-- TODO: Add Skills section with id="skills" -->
             <!-- Include: h2 "Skills & Experience", multiple h3 categories with organized lists -->
             <section id="skills">
-                <h2>Skills & Experience</h2>
-                <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+                <h2>Skills, Experience & Achievements</h2>
+                <ul>
+                    <li><h3>IBM Midrange Analyst/Programmer</h3>
+                        <ul>
+                            <li>
+                                <p>Developed <em>Campaign Analysis Report</em> for a magazine publishing house.</p>
+                            </li>
+                            
+                            <li>
+                                <p>Developed a suite of programs to implement an AS400 version of the <em>xls</em> time recording system.</p>
+                            </li>
+                        </ul>
+                    </li>
+                    <li><h3>Full Stack Web Developer</h3>
+                        <ul>
+                            <li><p><em>(work in progress)</em> I am developing a planner and study scheuling app using the PERN/MERN stack.</p></li>
+                            <li><p>Available for work on work from anywhere or hybrid basis.</p></li>
+                        </ul>
+                    </li>
+                    <li><h3>Find me on</h3>
+                        <ul>
+                            <li><a href="https://github.com" target="_blank">GitHub</a></li>
+                            <li><a href="https://linkedin.com" target="_blank">LinkedIn</a></li>
+                            <li><a href="https://www.reddit.com" target="_blank">Reddit</a></li>
+                        </ul>
+                    </li>
+                </ul>
+                <hr />
             </section>
-            <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
             <!-- TODO: Add Contact section with id="contact" -->
             <!-- Include: h2 "Let's Connect", social media links (email, LinkedIn, GitHub), and message form -->
             <section id="contact">
                 <h2>Let's Connect!</h2>
             <!-- Form should have: name, email, message fields and submit button -->
+            <form>
+                <fieldset>
+                    <!-- ToDo: Check correctness of form fields, attributes &c -->
+                    <legend>Contact Form <em>[Note: this form is currently for demonstration only.]</em></legend>
+                    <p>
+                        <label for="name">Name:</label>
+                        <input id="name" type="text"/>
+                    </p>
+                    <p>
+                        <label for="email">Email:</label>
+                        <input id="email" type="email"/>
+                    </p>
+                    <p>
+                        <label for="message">Message:</label>
+                        <textarea id="message"></textarea>
+                    </p>
+                    <div>
+                        <p>Reason for contact:</p>
+                        <label for="job-offer">Job offer:</label>
+                        <input type="checkbox" value="job-offer" id="job-offer" name="reason" />
+                        <label for="job-offer">Idle curiosity:</label>
+                        <input type="checkbox" value="curiosity" id="curiosity" name="reason" />
+                        <label for="job-offer">I was bored:</label>
+                        <input type="checkbox" value="boredom" id="boredom" name="reason" />
+                    </div>
+                    <p>
+                        <label for="preferred-contact">Preferred<br /> means<br />of contact:</label>
+                         <select name="preferred-contact" id="preferred-contact">
+                            <option value="email">Email</option>
+                            <option value="github">GitHub</option>
+                            <option value="smoke-signals" selected>Smoke signals</option>
+                            <option value="carrier-pidgeon">Carrier pidgeon</option>
+                         </select>
+                    </p>
+                    <p>
+                <!--    <label for="submit">Submit form:</label> -->
+                <!--    <input id="submit" type="submit"/> -->
+                        <!-- With the above the WAVE tool reports an 'empty button' error -->
+                        <!-- a bit harsh since the label gets put on the button -->
+                        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                        <button id="submit" type="submit">Submit Form</button>
+                        <!-- With the above the WAVE tool reports an 'orphaned label' error -->
+                        <!-- label now removed -->
+                    </p>
+                </fieldset>
+                <!-- ToDo Add a second fieldset with at least a choose method of contact -->
+                <!-- ToDo Add contact links with icons for LinkedIn, GitHub and Reddit (BlueSky?) (Mastodon?) (Discord?) -->
+            </form>
             </section>
             <!-- TODO: Close main element -->
         </main>
         <!-- TODO: Add footer with copyright and personal tagline -->
         <footer>
-            &copy; 2025 Sam McNair Programmer, Quaker, [over-]Thinker
+            &copy; 2025 Sam McNair - Programmer, Quaker, [over-]Thinker
         </footer>
     </body>
 </html>
