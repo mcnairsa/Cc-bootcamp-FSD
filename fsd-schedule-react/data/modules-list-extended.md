@@ -70,14 +70,14 @@
 | 09/2   |      | 68     | [ ] | React State Management                            | Component Optimization, Performance & Best Practices Part 1                                                    |
 | 09/2   |      | 69     | [ ] | React State Management                            | Component Optimization, Performance & Best Practices Part 2                                                    |
 | 09/2   |      | 70     | [ ] | React State Management                            | **PROJECT**: Major Project #3 - React App with routing, hooks, and state management                                |
-| 10     |      | 71     | [ ] | Backend Introduction & Express                    | Introduction to Node.js                                                                                        |
-| 10     |      | 72     | [ ] | Backend Introduction & Express                    | NPM, Module System                                                                                             |
-| 10     |      | 73     | [ ] | Backend Introduction & Express                    | HTTP Concepts                                                                                                  |
-| 10     |      | 74     | [ ] | Backend Introduction & Express                    | Express.js Setup                                                                                               |
-| 10     |      | 75     | [ ] | Backend Introduction & Express                    | Express Routing                                                                                                |
-| 10     | 16   | 76     | [ ] | Backend Introduction & Express                    | Middleware, Request/Response Objects                                                                           |
-| 10     | 16   | 77     | [ ] | Backend Introduction & Express                    | Static Files, Error Handling                                                                                   |
-| 10     | 16   | 78     | [ ] | Backend Introduction & Express                    | **PROJECT**: Express API                                                                                           |
+| 10/1   |      | 71     | [ ] | Backend Introduction & Express                    | Introduction to Node.js                                                                                        |
+| 10/1   |      | 72     | [ ] | Backend Introduction & Express                    | NPM, Module System                                                                                             |
+| 10/1   |      | 73     | [ ] | Backend Introduction & Express                    | HTTP Concepts                                                                                                  |
+| 10/1   |      | 74     | [ ] | Backend Introduction & Express                    | Express.js Setup                                                                                               |
+| 10/2   |      | 75     | [ ] | Backend Introduction & Express                    | Express Routing                                                                                                |
+| 10/2   | 16   | 76     | [ ] | Backend Introduction & Express                    | Middleware, Request/Response Objects                                                                           |
+| 10/2   | 16   | 77     | [ ] | Backend Introduction & Express                    | Static Files, Error Handling                                                                                   |
+| 10/2    | 16   | 78     | [ ] | Backend Introduction & Express                    | **PROJECT**: Express API                                                                                           |
 | 11     | 16   | 79     | [ ] | MongoDB & Mongoose                                | Introduction to NoSQL                                                                                          |
 | 11     | 16   | 80     | [ ] | MongoDB & Mongoose                                | MongoDB Basics, Document Structure                                                                             |
 | 11     | 17   | 81     | [ ] | MongoDB & Mongoose                                | MongoDB CRUD Operations                                                                                        |

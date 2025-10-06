@@ -71,14 +71,14 @@
 | 10/1   |      | 71     | [ ] | Backend Introduction & Express                    | Introduction to Node.js                                                                                        |
 | 10/1   |      | 72     | [ ] | Backend Introduction & Express                    | NPM, Module System                                                                                             |
 | 10/1   |      | 73     | [ ] | Backend Introduction & Express                    | HTTP Concepts                                                                                                  |
-| 10     |      | 74     | [ ] | Backend Introduction & Express                    | Express.js Setup                                                                                               |
-| 10     |      | 75     | [ ] | Backend Introduction & Express                    | Express Routing                                                                                                |
-| 10     | 16   | 76     | [ ] | Backend Introduction & Express                    | Middleware, Request/Response Objects                                                                           |
-| 10     | 16   | 77     | [ ] | Backend Introduction & Express                    | Static Files, Error Handling                                                                                   |
-| 10     | 16   | 78     | [ ] | Backend Introduction & Express                    | PROJECT: Express API                                                                                           |
-| 11     | 16   | 79     | [ ] | MongoDB & Mongoose                                | Introduction to NoSQL                                                                                          |
-| 11     | 16   | 80     | [ ] | MongoDB & Mongoose                                | MongoDB Basics, Document Structure                                                                             |
-| 11     | 17   | 81     | [ ] | MongoDB & Mongoose                                | MongoDB CRUD Operations                                                                                        |
+| 10/1   |      | 74     | [ ] | Backend Introduction & Express                    | Express.js Setup                                                                                               |
+| 10/2   |      | 75     | [ ] | Backend Introduction & Express                    | Express Routing                                                                                                |
+| 10/2   |    | 76     | [ ] | Backend Introduction & Express                    | Middleware, Request/Response Objects                                                                           |
+| 10/2   |    | 77     | [ ] | Backend Introduction & Express                    | Static Files, Error Handling                                                                                   |
+| 10/2   |    | 78     | [ ] | Backend Introduction & Express                    | PROJECT: Express API                                                                                           |
+| 11     |    | 79     | [ ] | MongoDB & Mongoose                                | Introduction to NoSQL                                                                                          |
+| 11     |    | 80     | [ ] | MongoDB & Mongoose                                | MongoDB Basics, Document Structure                                                                             |
+| 11     |    | 81     | [ ] | MongoDB & Mongoose                                | MongoDB CRUD Operations                                                                                        |
 | 11     | 17   | 82     | [ ] | MongoDB & Mongoose                                | Database best practices                                                                                        |
 | 11     | 17   | 83     | [ ] | MongoDB & Mongoose                                | Mongoose Setup                                                                                                 |
 | 11     | 17   | 84     | [ ] | MongoDB & Mongoose                                | Schemas, Models, Validation                                                                                    |
