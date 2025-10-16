@@ -78,8 +78,8 @@
 | 10/2   | 16   | 76     | [ ] | Backend Introduction & Express                    | Middleware, Request/Response Objects                                                                           |
 | 10/2   | 16   | 77     | [ ] | Backend Introduction & Express                    | Static Files, Error Handling                                                                                   |
 | 10/2    | 16   | 78     | [ ] | Backend Introduction & Express                    | **PROJECT**: Express API                                                                                           |
-| 11     | 16   | 79     | [ ] | MongoDB & Mongoose                                | Introduction to NoSQL                                                                                          |
-| 11     | 16   | 80     | [ ] | MongoDB & Mongoose                                | MongoDB Basics, Document Structure                                                                             |
+| 11     | 16   | 79     | [X] | MongoDB & Mongoose                                | Introduction to NoSQL                                                                                          |
+| 11     | 16   | 80     | [X] | MongoDB & Mongoose                                | MongoDB Basics, Document Structure                                                                             |
 | 11     | 17   | 81     | [ ] | MongoDB & Mongoose                                | MongoDB CRUD Operations                                                                                        |
 | 11     | 17   | 82     | [ ] | MongoDB & Mongoose                                | Database best practices                                                                                        |
 | 11     | 17   | 83     | [ ] | MongoDB & Mongoose                                | Mongoose Setup                                                                                                 |
