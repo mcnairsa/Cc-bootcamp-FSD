@@ -1,0 +1,12 @@
+{
+  "name": "my-first-package",
+  "version": "1.0.0",
+  "description": "This is an example of how to create an npm package for a web application or api",
+  "license": "MIT",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

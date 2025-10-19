@@ -87,7 +87,7 @@
 | 12     | 18   | 87     | [ ] | Cloud Technologies & RESTful APIs                 | Cloud Services Overview - AWS, Azure, Google Cloud                                                             |
 | 12     | 18   | 88     | [ ] | Cloud Technologies & RESTful APIs                 | DotEnv / Environment Variables                                                                                 |
 | 12     | 18   | 89     | [ ] | Cloud Technologies & RESTful APIs                 | MongoDB Atlas Setup                                                                                            |
-| 12     | 18   | 90     | [ ] | Cloud Technologies & RESTful APIs                 | REST APIs in Depth, RPC vs REST                                                                                |
+| 12/1   | 18   | 90     | [ ] | Cloud Technologies & RESTful APIs                 | REST APIs in Depth, RPC vs REST                                                                                |
 | 12     | 19   | 91     | [ ] | Cloud Technologies & RESTful APIs                 | Advanced Rest Concepts                                                                                         |
 | 12     | 19   | 92     | [ ] | Cloud Technologies & RESTful APIs                 | API First Design, Auto Generating Docs                                                                         |
 | 12     | 19   | 93     | [ ] | Cloud Technologies & RESTful APIs                 | Using Protected APIs                                                                                           |

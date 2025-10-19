@@ -70,37 +70,37 @@
 | 09/2   |      | 68     | [ ] | React State Management                            | Component Optimization, Performance & Best Practices Part 1                                                    |
 | 09/2   |      | 69     | [ ] | React State Management                            | Component Optimization, Performance & Best Practices Part 2                                                    |
 | 09/2   |      | 70     | [ ] | React State Management                            | **PROJECT**: Major Project #3 - React App with routing, hooks, and state management                                |
-| 10/1   |      | 71     | [ ] | Backend Introduction & Express                    | Introduction to Node.js                                                                                        |
-| 10/1   |      | 72     | [ ] | Backend Introduction & Express                    | NPM, Module System                                                                                             |
-| 10/1   |      | 73     | [ ] | Backend Introduction & Express                    | HTTP Concepts                                                                                                  |
-| 10/1   |      | 74     | [ ] | Backend Introduction & Express                    | Express.js Setup                                                                                               |
-| 10/2   |      | 75     | [ ] | Backend Introduction & Express                    | Express Routing                                                                                                |
-| 10/2   | 16   | 76     | [ ] | Backend Introduction & Express                    | Middleware, Request/Response Objects                                                                           |
-| 10/2   | 16   | 77     | [ ] | Backend Introduction & Express                    | Static Files, Error Handling                                                                                   |
-| 10/2    | 16   | 78     | [ ] | Backend Introduction & Express                    | **PROJECT**: Express API                                                                                           |
-| 11     | 16   | 79     | [ ] | MongoDB & Mongoose                                | Introduction to NoSQL                                                                                          |
-| 11     | 16   | 80     | [ ] | MongoDB & Mongoose                                | MongoDB Basics, Document Structure                                                                             |
-| 11     | 17   | 81     | [ ] | MongoDB & Mongoose                                | MongoDB CRUD Operations                                                                                        |
-| 11     | 17   | 82     | [ ] | MongoDB & Mongoose                                | Database best practices                                                                                        |
-| 11     | 17   | 83     | [ ] | MongoDB & Mongoose                                | Mongoose Setup                                                                                                 |
-| 11     | 17   | 84     | [ ] | MongoDB & Mongoose                                | Schemas, Models, Validation                                                                                    |
-| 11     | 17   | 85     | [ ] | MongoDB & Mongoose                                | Relationships, Population                                                                                      |
-| 11     | 18   | 86     | [ ] | MongoDB & Mongoose                                | **PROJECT**: Connecting Express to MongoDB with Mongoose                                                           |
-| 12     | 18   | 87     | [ ] | Cloud Technologies & RESTful APIs                 | Cloud Services Overview - AWS, Azure, Google Cloud                                                             |
-| 12     | 18   | 88     | [ ] | Cloud Technologies & RESTful APIs                 | DotEnv / Environment Variables                                                                                 |
-| 12     | 18   | 89     | [ ] | Cloud Technologies & RESTful APIs                 | MongoDB Atlas Setup                                                                                            |
-| 12     | 18   | 90     | [ ] | Cloud Technologies & RESTful APIs                 | REST APIs in Depth, RPC vs REST                                                                                |
-| 12     | 19   | 91     | [ ] | Cloud Technologies & RESTful APIs                 | Advanced Rest Concepts                                                                                         |
-| 12     | 19   | 92     | [ ] | Cloud Technologies & RESTful APIs                 | API First Design, Auto Generating Docs                                                                         |
-| 12     | 19   | 93     | [ ] | Cloud Technologies & RESTful APIs                 | Using Protected APIs                                                                                           |
-| 12     | 19   | 94     | [ ] | Cloud Technologies & RESTful APIs                 | PROJECT: RESTful API with 3rd Party API Integration and MongoDB                                                |
-| 13     | 19   | 95     | [ ] | Authentication & Security                         | User Authentication Concepts & Password Security with Bcrypt                                                   |
-| 13     | 20   | 96     | [ ] | Authentication & Security                         | JSON Web Tokens (JWT) - Structure, Signing, Verification                                                       |
-| 13     | 20   | 97     | [ ] | Authentication & Security                         | JWT Implementation - Login/Register Routes                                                                     |
-| 13     | 20   | 98     | [ ] | Authentication & Security                         | Protected Routes & Middleware                                                                                  |
-| 13     | 20   | 99     | [ ] | Authentication & Security                         | Authorization vs Authentication, Role-based Access                                                             |
-| 13     | 20   | 100    | [ ] | Authentication & Security                         | Security Best Practices - HTTPS, Environment Variables, Input Validation                                       |
-| 13     | 21   | 101    | [ ] | Authentication & Security                         | OWASP Top 10                                                                                                   |
+| 10/1   | 0:34 | 71     | [X] | Backend Introduction & Express                    | Introduction to Node.js                                                                                        |
+| 10/1   | 0:59 | 72     | [X] | Backend Introduction & Express                    | NPM [1:48], Module System  [0:59]                                                                                           |
+| 10/1   | 2:47 | 73     | [ ] | Backend Introduction & Express                    | HTTP Concepts                                                                                                  |
+| 10/1   | 3:16 | 74     | [ ] | Backend Introduction & Express                    | Express.js Setup                                                                                               |
+| 10/2   | 0:31 | 75     | [ ] | Backend Introduction & Express                    | Express Routing                                                                                                |
+| 10/2   | 2:58 | 76     | [ ] | Backend Introduction & Express                    | Middleware, Request/Response Objects                                                                           |
+| 10/2   | 3:38 | 77     | [ ] | Backend Introduction & Express                    | Static Files, Error Handling                                                                                   |
+| 10/2   | 4:02 | 78     | [ ] | Backend Introduction & Express                    | **PROJECT**: Express API                                                                                           |
+| 11     | 0:29 | 79     | [ ] | MongoDB & Mongoose                                | Introduction to NoSQL                                                                                          |
+| 11     | 0:49 | 80     | [ ] | MongoDB & Mongoose                                | MongoDB Basics, Document Structure                                                                             |
+| 11     | 3:19 | 81     | [ ] | MongoDB & Mongoose                                | MongoDB CRUD Operations                                                                                        |
+| 11     | 3:40 | 82     | [ ] | MongoDB & Mongoose                                | Database best practices                                                                                        |
+| 11     | 0:32 | 83     | [ ] | MongoDB & Mongoose                                | Mongoose Setup                                                                                                 |
+| 11     | 1:54 | 84     | [ ] | MongoDB & Mongoose                                | Schemas, Models, Validation                                                                                    |
+| 11     | 3:35 | 85     | [ ] | MongoDB & Mongoose                                | Relationships, Population                                                                                      |
+| 11     | 4:00 | 86     | [ ] | MongoDB & Mongoose                                | **PROJECT**: Connecting Express to MongoDB with Mongoose                                                           |
+| 12/1   | 0:15 | 87     | [ ] | Cloud Technologies & RESTful APIs                 | Cloud Services Overview - AWS, Azure, Google Cloud                                                             |
+| 12/1   |   | 88     | [ ] | Cloud Technologies & RESTful APIs                 | DotEnv / Environment Variables                                                                                 |
+| 12     |   | 89     | [ ] | Cloud Technologies & RESTful APIs                 | MongoDB Atlas Setup                                                                                            |
+| 12     |    | 90     | [ ] | Cloud Technologies & RESTful APIs                 | REST APIs in Depth, RPC vs REST                                                                                |
+| 12     |    | 91     | [ ] | Cloud Technologies & RESTful APIs                 | Advanced Rest Concepts                                                                                         |
+| 12     |    | 92     | [ ] | Cloud Technologies & RESTful APIs                 | API First Design, Auto Generating Docs                                                                         |
+| 12     |    | 93     | [ ] | Cloud Technologies & RESTful APIs                 | Using Protected APIs                                                                                           |
+| 12     |    | 94     | [ ] | Cloud Technologies & RESTful APIs                 | PROJECT: RESTful API with 3rd Party API Integration and MongoDB                                                |
+| 13     |    | 95     | [ ] | Authentication & Security                         | User Authentication Concepts & Password Security with Bcrypt                                                   |
+| 13     |    | 96     | [ ] | Authentication & Security                         | JSON Web Tokens (JWT) - Structure, Signing, Verification                                                       |
+| 13     |    | 97     | [ ] | Authentication & Security                         | JWT Implementation - Login/Register Routes                                                                     |
+| 13     |    | 98     | [ ] | Authentication & Security                         | Protected Routes & Middleware                                                                                  |
+| 13     |   | 99     | [ ] | Authentication & Security                         | Authorization vs Authentication, Role-based Access                                                             |
+| 13     |    | 100    | [ ] | Authentication & Security                         | Security Best Practices - HTTPS, Environment Variables, Input Validation                                       |
+| 13     |    | 101    | [ ] | Authentication & Security                         | OWASP Top 10                                                                                                   |
 | 13     | 21   | 102    | [ ] | Authentication & Security                         | Major Project #4 - Complete RESTful API with 3rd Party API Integration, Authentication, and MongoDB            |
 | 14     | 21   | 103    | [ ] | Full Stack Integration                            | Connecting React to Express API                                                                                |
 | 14     | 21   | 104    | [ ] | Full Stack Integration                            | Axios Configuration + CORS                                                                                     |

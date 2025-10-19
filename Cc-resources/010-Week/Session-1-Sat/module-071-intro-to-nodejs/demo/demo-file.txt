@@ -1,0 +1,7 @@
+File Manager Demo
+Created at: 2025-10-04T16:04:04.576Z
+Node.js Version: v24.7.0
+Platform: darwin
+
+This file was created by Node.js File Manager.
+Browsers cannot create files on the local file system.
