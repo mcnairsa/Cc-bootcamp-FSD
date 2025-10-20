@@ -87,54 +87,54 @@
 | 11     | 3:35 | 85     | [ ] | MongoDB & Mongoose                                | Relationships, Population                                                                                      |
 | 11     | 4:00 | 86     | [ ] | MongoDB & Mongoose                                | **PROJECT**: Connecting Express to MongoDB with Mongoose                                                           |
 | 12/1   | 0:15 | 87     | [ ] | Cloud Technologies & RESTful APIs                 | Cloud Services Overview - AWS, Azure, Google Cloud                                                             |
-| 12/1   |   | 88     | [ ] | Cloud Technologies & RESTful APIs                 | DotEnv / Environment Variables                                                                                 |
-| 12     |   | 89     | [ ] | Cloud Technologies & RESTful APIs                 | MongoDB Atlas Setup                                                                                            |
-| 12     |    | 90     | [ ] | Cloud Technologies & RESTful APIs                 | REST APIs in Depth, RPC vs REST                                                                                |
-| 12     |    | 91     | [ ] | Cloud Technologies & RESTful APIs                 | Advanced Rest Concepts                                                                                         |
-| 12     |    | 92     | [ ] | Cloud Technologies & RESTful APIs                 | API First Design, Auto Generating Docs                                                                         |
-| 12     |    | 93     | [ ] | Cloud Technologies & RESTful APIs                 | Using Protected APIs                                                                                           |
-| 12     |    | 94     | [ ] | Cloud Technologies & RESTful APIs                 | PROJECT: RESTful API with 3rd Party API Integration and MongoDB                                                |
-| 13     |    | 95     | [ ] | Authentication & Security                         | User Authentication Concepts & Password Security with Bcrypt                                                   |
-| 13     |    | 96     | [ ] | Authentication & Security                         | JSON Web Tokens (JWT) - Structure, Signing, Verification                                                       |
-| 13     |    | 97     | [ ] | Authentication & Security                         | JWT Implementation - Login/Register Routes                                                                     |
-| 13     |    | 98     | [ ] | Authentication & Security                         | Protected Routes & Middleware                                                                                  |
-| 13     |   | 99     | [ ] | Authentication & Security                         | Authorization vs Authentication, Role-based Access                                                             |
-| 13     |    | 100    | [ ] | Authentication & Security                         | Security Best Practices - HTTPS, Environment Variables, Input Validation                                       |
-| 13     |    | 101    | [ ] | Authentication & Security                         | OWASP Top 10                                                                                                   |
-| 13     | 21   | 102    | [ ] | Authentication & Security                         | Major Project #4 - Complete RESTful API with 3rd Party API Integration, Authentication, and MongoDB            |
-| 14     | 21   | 103    | [ ] | Full Stack Integration                            | Connecting React to Express API                                                                                |
-| 14     | 21   | 104    | [ ] | Full Stack Integration                            | Axios Configuration + CORS                                                                                     |
-| 14     | 21   | 105    | [ ] | Full Stack Integration                            | Environment configuration                                                                                      |
-| 14     | 22   | 106    | [ ] | Full Stack Integration                            | Authentication Flow in React                                                                                   |
-| 14     | 22   | 107    | [ ] | Full Stack Integration                            | Protected Components                                                                                           |
-| 14     | 22   | 108    | [ ] | Full Stack Integration                            | Error Handling & Loading States                                                                                |
-| 14     | 22   | 109    | [ ] | Full Stack Integration                            | PROJECT: Full Stack Authentication - Complete login system integration                                         |
-| 15     | 22   | 110    | [ ] | SDLC & MERN Integration                           | Software Development Lifecycle Overview                                                                        |
-| 15     | 23   | 111    | [ ] | SDLC & MERN Integration                           | What is Agile?                                                                                                 |
-| 15     | 23   | 112    | [ ] | SDLC & MERN Integration                           | Stories and Acceptance Criteria                                                                                |
-| 15     | 23   | 113    | [ ] | SDLC & MERN Integration                           | Ceremonies and Artifacts, Prototypes and Wireframes                                                            |
-| 15     | 23   | 114    | [ ] | SDLC & MERN Integration                           | MERN Architecture Planning                                                                                     |
-| 15     | 23   | 115    | [ ] | SDLC & MERN Integration                           | Project Setup                                                                                                  |
-| 15     | 24   | 116    | [ ] | SDLC & MERN Integration                           | Database Design with Mongoose, Authentication                                                                  |
-| 15     | 24   | 117    | [ ] | SDLC & MERN Integration                           | PROJECT - Major Project #5 - Final Full Stack Project                                                          |
-| 16     | 24   | 118    | [ ] | Final Project Frontend                            | Final Project Frontend Setup with React                                                                        |
-| 16     | 24   | 119    | [ ] | Final Project Frontend                            | User interface design                                                                                          |
-| 16     | 24   | 120    | [ ] | Final Project Frontend                            | Component architecture                                                                                         |
-| 16     | 25   | 121    | [ ] | Final Project Frontend                            | State management implementation                                                                                |
-| 16     | 25   | 122    | [ ] | Final Project Frontend                            | API testing with Postman                                                                                       |
-| 16     | 25   | 123    | [ ] | Final Project Frontend                            | Unit testing with Jest                                                                                         |
-| 16     | 25   | 124    | [ ] | Final Project Frontend                            | E2E Testing with Playwright                                                                                    |
-| 16     | 25   | 125    | [ ] | Final Project Frontend                            | Work on Final Project                                                                                          |
-| 17     | 25   | 126    | [ ] | Final Project Working Day                         | Work on Final Project and Q&A<!-- (1-4 hours) -->                                                              |
-| 17     | 26   | 127    | [ ] | DevOps Fundamentals                               | Cloud Deployment Providers and Overview                                                                        |
-| 17     | 26   | 128    | [ ] | DevOps Fundamentals                               | Development vs Production Environments, Build Processes, Observability                                         |
-| 17     | 26   | 129    | [ ] | DevOps Fundamentals                               | Frontend vs Backend Deploys, CORS in Production, Environment Variables                                         |
-| 17     | 26   | 130    | [ ] | DevOps Fundamentals                               | Final Project Deployment Work                                                                                  |
-| 18     | 26   | 131    | [ ] | Career Preparation & Graduation                   | Technical Interview Strategies                                                                                 |
-| 18     | 26   | 132    | [ ] | Career Preparation & Graduation                   | Coding challenges practice, Behavioral Questions                                                               |
-| 18     | 27   | 133    | [ ] | Career Preparation & Graduation                   | Mock interviews, and Portfolio Presentation Techniques                                                         |
-| 18     | 27   | 134    | [ ] | Career Preparation & Graduation                   | Technical Interview Practice Assignments                                                                       |
-| 18     | 27   | 135    | [ ] | Career Preparation & Graduation                   | Resume Building & Job Search Strategies - Professional resume creation                                         |
-| 18     | 27   | 136    | [ ] | Career Preparation & Graduation                   | LinkedIn optimization, job search platforms, networking strategies, and application best practices             |
-| 18     | 27   | 137    | [ ] | Career Preparation & Graduation                   | Complete professional resume and LinkedIn profile                                                              |
-| 18     | 27   | 138    | [ ] | Career Preparation & Graduation                   | Final Presentations & Graduation Ceremony                                                                      |
+| 12/1   | 0:29 | 88     | [ ] | Cloud Technologies & RESTful APIs                 | DotEnv / Environment Variables                                                                                 |
+| 12/1   | 1:26 | 89     | [ ] | Cloud Technologies & RESTful APIs                 | MongoDB Atlas Setup                                                                                            |
+| 12/1   | 3:45 | 90     | [ ] | Cloud Technologies & RESTful APIs                 | REST APIs in Depth, RPC vs REST                                                                                |
+| 12/2   | 0:37 | 91     | [ ] | Cloud Technologies & RESTful APIs                 | Advanced Rest Concepts                                                                                         |
+| 12/2   | 2:53 | 92     | [ ] | Cloud Technologies & RESTful APIs                 | API First Design, Auto Generating Docs                                                                         |
+| 12/2   | 3:25 | 93     | [ ] | Cloud Technologies & RESTful APIs                 | Using Protected APIs                                                                                           |
+| 12/2   | 4:06 | 94     | [ ] | Cloud Technologies & RESTful APIs                 | PROJECT: RESTful API with 3rd Party API Integration and MongoDB                                                |
+| 13   |    | 95     | [ ] | Authentication & Security                         | User Authentication Concepts & Password Security with Bcrypt                                                   |
+| 13   |    | 96     | [ ] | Authentication & Security                         | JSON Web Tokens (JWT) - Structure, Signing, Verification                                                       |
+| 13   |    | 97     | [ ] | Authentication & Security                         | JWT Implementation - Login/Register Routes                                                                     |
+| 13   |    | 98     | [ ] | Authentication & Security                         | Protected Routes & Middleware                                                                                  |
+| 13   |    | 99     | [ ] | Authentication & Security                         | Authorization vs Authentication, Role-based Access                                                             |
+| 13   |    | 100    | [ ] | Authentication & Security                         | Security Best Practices - HTTPS, Environment Variables, Input Validation                                       |
+| 13   |    | 101    | [ ] | Authentication & Security                         | OWASP Top 10                                                                                                   |
+| 13   |  | 102    | [ ] | Authentication & Security                         | Major Project #4 - Complete RESTful API with 3rd Party API Integration, Authentication, and MongoDB            |
+| 14   | 21   | 103    | [ ] | Full Stack Integration                            | Connecting React to Express API                                                                                |
+| 14   | 21   | 104    | [ ] | Full Stack Integration                            | Axios Configuration + CORS                                                                                     |
+| 14   | 21   | 105    | [ ] | Full Stack Integration                            | Environment configuration                                                                                      |
+| 14   | 22   | 106    | [ ] | Full Stack Integration                            | Authentication Flow in React                                                                                   |
+| 14   | 22   | 107    | [ ] | Full Stack Integration                            | Protected Components                                                                                           |
+| 14   | 22   | 108    | [ ] | Full Stack Integration                            | Error Handling & Loading States                                                                                |
+| 14   | 22   | 109    | [ ] | Full Stack Integration                            | PROJECT: Full Stack Authentication - Complete login system integration                                         |
+| 15   | 22   | 110    | [ ] | SDLC & MERN Integration                           | Software Development Lifecycle Overview                                                                        |
+| 15   | 23   | 111    | [ ] | SDLC & MERN Integration                           | What is Agile?                                                                                                 |
+| 15   | 23   | 112    | [ ] | SDLC & MERN Integration                           | Stories and Acceptance Criteria                                                                                |
+| 15   | 23   | 113    | [ ] | SDLC & MERN Integration                           | Ceremonies and Artifacts, Prototypes and Wireframes                                                            |
+| 15   | 23   | 114    | [ ] | SDLC & MERN Integration                           | MERN Architecture Planning                                                                                     |
+| 15   | 23   | 115    | [ ] | SDLC & MERN Integration                           | Project Setup                                                                                                  |
+| 15   | 24   | 116    | [ ] | SDLC & MERN Integration                           | Database Design with Mongoose, Authentication                                                                  |
+| 15   | 24   | 117    | [ ] | SDLC & MERN Integration                           | PROJECT - Major Project #5 - Final Full Stack Project                                                          |
+| 16   | 24   | 118    | [ ] | Final Project Frontend                            | Final Project Frontend Setup with React                                                                        |
+| 16   | 24   | 119    | [ ] | Final Project Frontend                            | User interface design                                                                                          |
+| 16   | 24   | 120    | [ ] | Final Project Frontend                            | Component architecture                                                                                         |
+| 16   | 25   | 121    | [ ] | Final Project Frontend                            | State management implementation                                                                                |
+| 16   | 25   | 122    | [ ] | Final Project Frontend                            | API testing with Postman                                                                                       |
+| 16   | 25   | 123    | [ ] | Final Project Frontend                            | Unit testing with Jest                                                                                         |
+| 16   | 25   | 124    | [ ] | Final Project Frontend                            | E2E Testing with Playwright                                                                                    |
+| 16   | 25   | 125    | [ ] | Final Project Frontend                            | Work on Final Project                                                                                          |
+| 17   | 25   | 126    | [ ] | Final Project Working Day                         | Work on Final Project and Q&A<!-- (1-4 hours) -->                                                              |
+| 17   | 26   | 127    | [ ] | DevOps Fundamentals                               | Cloud Deployment Providers and Overview                                                                        |
+| 17   | 26   | 128    | [ ] | DevOps Fundamentals                               | Development vs Production Environments, Build Processes, Observability                                         |
+| 17   | 26   | 129    | [ ] | DevOps Fundamentals                               | Frontend vs Backend Deploys, CORS in Production, Environment Variables                                         |
+| 17   | 26   | 130    | [ ] | DevOps Fundamentals                               | Final Project Deployment Work                                                                                  |
+| 18   | 26   | 131    | [ ] | Career Preparation & Graduation                   | Technical Interview Strategies                                                                                 |
+| 18   | 26   | 132    | [ ] | Career Preparation & Graduation                   | Coding challenges practice, Behavioral Questions                                                               |
+| 18   | 27   | 133    | [ ] | Career Preparation & Graduation                   | Mock interviews, and Portfolio Presentation Techniques                                                         |
+| 18   | 27   | 134    | [ ] | Career Preparation & Graduation                   | Technical Interview Practice Assignments                                                                       |
+| 18   | 27   | 135    | [ ] | Career Preparation & Graduation                   | Resume Building & Job Search Strategies - Professional resume creation                                         |
+| 18   | 27   | 136    | [ ] | Career Preparation & Graduation                   | LinkedIn optimization, job search platforms, networking strategies, and application best practices             |
+| 18   | 27   | 137    | [ ] | Career Preparation & Graduation                   | Complete professional resume and LinkedIn profile                                                              |
+| 18   | 27   | 138    | [ ] | Career Preparation & Graduation                   | Final Presentations & Graduation Ceremony                                                                      |
