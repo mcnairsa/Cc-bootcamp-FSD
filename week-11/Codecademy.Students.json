@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "68efb1000930278fc7ab9c59"
+  },
+  "name": "Bob,",
+  "email": "bob@codecademy.com"
+},
+{
+  "_id": {
+    "$oid": "68efb1cf0930278fc7ab9c5a"
+  },
+  "name": "Bob Two",
+  "email": "bob@codecademy.com"
+},
+{
+  "_id": {
+    "$oid": "68efb26a0930278fc7ab9c5b"
+  },
+  "name": "Alice",
+  "email": "alice@codecademy.com"
+},
+{
+  "_id": {
+    "$oid": "68efb2c10930278fc7ab9c5c"
+  },
+  "name": "Alice Two",
+  "email": "alice@codecademy.com"
+}]
