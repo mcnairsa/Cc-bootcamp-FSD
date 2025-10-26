@@ -7,7 +7,7 @@
 | 01/1   | 3:33 | 4      | [ ] | HTML Fundamentals                                 | Headers [3:15], Paragraphs, and MDN Docs [3:33]                                                                |
 | 01/2   | 1:05 | 5      | [X] | HTML Fundamentals                                 | Tables, Lists [1:30], Links [1:54] and Navigation                                                              |
 | 01/2   | 2:26 | 6      | [X] | HTML Fundamentals                                 | HTML Forms & Input Types, Quickbites Survey                                                                    |
-| 01/2   | 3:26 | 7      | [ ] | HTML Fundamentals                                 | PROJECT: Personal Bio Page HTML Only                                                                           |
+| 01/2   | 3:26 | 7      | [ ] | HTML Fundamentals                                 | **PROJECT**: *Personal Bio Page* (HTML Only)                                                                   |
 | 02/1   | 0:12 | 8      | [ ] | CSS Fundamentals & Layout                         | CSS Basics: Selectors, Rulesets, Properties *CSS Land*                                                         |
 | 02/1   | 2    | 9      | [ ] | CSS Fundamentals & Layout                         | Box Model *Business Card*                                                                                      |
 | 02/1   | 2    | 10     | [ ] | CSS Fundamentals & Layout                         | Typography, Colors, Display & Position *CSS Detective Agency*                                                  |
@@ -18,11 +18,11 @@
 | 02/2   | 3    | 15     | [ ] | CSS Fundamentals & Layout                         | **PROJECT**: *Styled Landing Page*                                                                             |
 | 03/1   | 4    | 16     | [ ] | Advanced CSS & Frameworks                         | CSS Animations                                                                                                 |
 | 03/1   | 1:20 | 17     | [ ] | Advanced CSS & Frameworks                         | CSS Transitions [?], Transform [?], Advanced Selectors [2:10], Pseudo-elements                          [1:20?]|
-| 03/1   | 2:38 | 18     | [ ] | Advanced CSS & Frameworks                         | Intro to UI Frameworks/Libraries<!-- , Pico[2:42], Bootstrap [2:57], Tailwind (brief introduction)[3:04], Animate.css, Animista, CSS Animation Kit --> |
+| 03/1   | 2:38 | 18     | [ ] | Advanced CSS & Frameworks                         | Intro to UI Frameworks/Libraries (Pico[2:42], Bootstrap [2:57], Tailwind (brief intro)[3:04], Animate.css, Animista, CSS Animation Kit) |
 | 03/1   |      | 19     | [ ] | Advanced CSS & Frameworks                         | Bootstrap Fundamentals: Components, Utilities, Grid System                                                     |
 | 03/2   | 0:17 | 20     | [ ] | Advanced CSS & Frameworks                         | Tailwind Fundamentals                                                                                          |
 | 03/2   | 1:21 | 21     | [ ] | Advanced CSS & Frameworks                         | Google Fonts, Font Awesome [2:11]                                                                              |
-| 03/2   | 2:36 | 22     | [ ] | Advanced CSS & Frameworks                         | PROJECT: Major Project #1 - Responsive design with animations                                                  |
+| 03/2   | 2:36 | 22     | [ ] | Advanced CSS & Frameworks                         | **PROJECT**: **Major Project #1** - *Responsive design with animations*                                                  |
 | 04/1   | 0:16 | 23     | [ ] | Git & JavaScript Fundamentals                     | Git and Github Fundamentals: Installation, Repository Setup, Account Setup                                     |
 | 04/1   | ?    | 24     | [ ] | Git & JavaScript Fundamentals                     | Git Basic Commands, Branching and Merging                                                                      |
 | 04/1   | 5    | 25     | [ ] | Git & JavaScript Fundamentals                     | JavaScript Basics: Variables(let/const/var), Data Types                                                        |
@@ -30,7 +30,7 @@
 | 04/2   | 0:18 | 27     | [ ] | Git & JavaScript Fundamentals                     | Functions, Scope [0:50]                                                                                        |
 | 04/2   | 1:22 | 28     | [ ] | Git & JavaScript Fundamentals                     | Debugging Intro                                                                                                |
 | 04/2   | 2:22 | 29     | [ ] | Git & JavaScript Fundamentals                     | GitHub Portfolio Setup                                                                                         |
-| 04/2   | 3:18 | 30     | [ ] | Git & JavaScript Fundamentals                     | **PROJECT**: GitHub Portfolio Setup & Interactive Calculator [4:10]                                            |
+| 04/2   | 3:18 | 30     | [ ] | Git & JavaScript Fundamentals                     | **PROJECT**: *GitHub Portfolio Setup & Interactive Calculator* [4:10]                                          |
 | 05/1   | 0:45 | 31     | [X] | Advanced JavaScript & DOM                         | Arrow Functions, Higher Order Functions                                                                        |
 | 05/1   | 1:40 | 32     | [X] | Advanced JavaScript & DOM                         | Arrays and Array Method                                                                                        |
 | 05/1   | 2:40 | 33     | [ ] | Advanced JavaScript & DOM                         | Objects and Object Methods                                                                                     |
@@ -38,7 +38,7 @@
 | 05/2   | 0:15 | 35     | [ ] | Advanced JavaScript & DOM                         | DOM Selection, Manipulation                                                                                    |
 | 05/2   | 1:20 | 36     | [ ] | Advanced JavaScript & DOM                         | Events - Handling, Bubbling [?2:10], Event Loop []                                                             |
 | 05/2   | 2:53 | 37     | [ ] | Advanced JavaScript & DOM                         | Form Processing, Local Storage [3:20]                                                                          |
-| 05/2   | 3:45 | 38     | [ ] | Advanced JavaScript & DOM                         | **PROJECT**: Todo List App                                                                                     |
+| 05/2   | 3:45 | 38     | [ ] | Advanced JavaScript & DOM                         | **PROJECT**: *Todo List App*                                                                                   |
 | 06     |      | 39     | [ ] | APIs & Asynchronous JavaScript                    | Working with APIs, Fetch API                                                                                   |
 | 06     |      | 40     | [ ] | APIs & Asynchronous JavaScript                    | JSON, Error Handling                                                                                           |
 | 06     |      | 41     | [ ] | APIs & Asynchronous JavaScript                    | Callbacks                                                                                                      |
@@ -46,7 +46,7 @@
 | 06     |      | 43     | [ ] | APIs & Asynchronous JavaScript                    | Async/Await                                                                                                    |
 | 06     |      | 44     | [ ] | APIs & Asynchronous JavaScript                    | Exploring Free APIs, Postman                                                                                   |
 | 06     |      | 45     | [ ] | APIs & Asynchronous JavaScript                    | Multiple API calls, Data Processing                                                                            |
-| 06     |      | 46     | [ ] | APIs & Asynchronous JavaScript                    | **PROJECT**: Major Project #2 - Vanilla JS frontend, API integration with one or more APIs                     |
+| 06     |      | 46     | [ ] | APIs & Asynchronous JavaScript                    | **PROJECT**: **Major Project #2** - *Vanilla JS frontend, API integration with one or more APIs*               |
 | 07/1   | 0:24 | 47     | [X] | React Fundamentals                                | Introduction to React [0:53] and the Virtual DOM, React vs Vanilla JS                                          |
 | 07/1   | 0:45 | 48     | [X] | React Fundamentals                                | JSX, Components, Props [2:13] [React Developer Tools 2:57]     ?                                               |
 | 07/1   | 3:06 | 49     | [X] | React Fundamentals                                | State Management with useState [debugging]                                                                     |
@@ -54,7 +54,7 @@
 | 07/2   | 0:30 | 51     | [X] | React Fundamentals                                | Event Handling [Sharing events between parent and child 1:30]                                                  |
 | 07/2   | 1:48 | 52     | [X] | React Fundamentals                                | Conditional Rendering [2:41 Safe Rendering]                                                                    |
 | 07/2   | 3:10 | 53     | [X] | React Fundamentals                                | React Lists and Keys,  [also, briefly @ 0:58] Forms in React                                                   |
-| 07/2   | 4:05 | 54     | [ ] | React Fundamentals                                | **PROJECT**: React Counter & Todo App                                                                          |
+| 07/2   | 4:05 | 54     | [ ] | React Fundamentals                                | **PROJECT**: *React Counter & Todo App*                                                                        |
 | 08/1   | 0:15 | 55     | [ ] | React Intermediate & Routing                      | Component Lifecycle with useEffect                                                                             |
 | 08/1   |      | 56     | [ ] | React Intermediate & Routing                      | Side Effects, Cleanup                                                                                          |
 | 08/1   |      | 57     | [ ] | React Intermediate & Routing                      | Custom Hooks                                                                                                   |
@@ -62,7 +62,7 @@
 | 08/2   |      | 59     | [ ] | React Intermediate & Routing                      | React Router Setup                                                                                             |
 | 08/2   |      | 60     | [ ] | React Intermediate & Routing                      | Routes, Links, Navigation                                                                                      |
 | 08/2   |      | 61     | [ ] | React Intermediate & Routing                      | URL Parameters, Protected Routes                                                                               |
-| 08/2   |      | 62     | [ ] | React Intermediate & Routing                      | **PROJECT**: Multi-page React Application                                                                      |
+| 08/2   |      | 62     | [ ] | React Intermediate & Routing                      | **PROJECT**: *Multi-page React Application*                                                                    |
 | 09/1   |      | 63     | [ ] | React State Management                            | Context API - useContext                                                                                       |
 | 09/1   |      | 64     | [ ] | React State Management                            | useReducer Hook                                                                                                |
 | 09/1   |      | 65     | [ ] | React State Management                            | Global State Management, Redux Part 1                                                                          |
@@ -70,7 +70,7 @@
 | 09/1   |      | 67     | [ ] | React State Management                            | Updating Objects, Arrays, and Queuing                                                                          |
 | 09/2   |      | 68     | [ ] | React State Management                            | Component Optimization, Performance & Best Practices Part 1                                                    |
 | 09/2   |      | 69     | [ ] | React State Management                            | Component Optimization, Performance & Best Practices Part 2                                                    |
-| 09/2   |      | 70     | [ ] | React State Management                            | **PROJECT**: Major Project #3 - React App with routing, hooks, and state management                            |
+| 09/2   |      | 70     | [ ] | React State Management                            | **PROJECT**: **Major Project #3** - *React App with routing, hooks, and state management*                      |
 | 10/1   | 0:34 | 71     | [X] | Backend Introduction & Express                    | Introduction to Node.js                                                                                        |
 | 10/1   | 0:59 | 72     | [X] | Backend Introduction & Express                    | NPM [1:48], Module System  [0:59]                                                                              |
 | 10/1   | 2:47 | 73     | [ ] | Backend Introduction & Express                    | HTTP Concepts                                                                                                  |
@@ -95,14 +95,14 @@
 | 12/2   | 2:53 | 92     | [ ] | Cloud Technologies & RESTful APIs                 | API First Design, Auto Generating Docs                                                                         |
 | 12/2   | 3:25 | 93     | [ ] | Cloud Technologies & RESTful APIs                 | Using Protected APIs                                                                                           |
 | 12/2   | 4:06 | 94     | [ ] | Cloud Technologies & RESTful APIs                 | PROJECT: RESTful API with 3rd Party API Integration and MongoDB                                                |
-| 13/1   | c0:15 | 95     | [ ] | Authentication & Security                         | User Authentication Concepts & Password Security with Bcrypt                                                  |
+| 13/1   | 0:28 | 95     | [ ] | Authentication & Security                         | User Authentication Concepts & Password Security with Bcrypt                                                  |
 | 13/1   | c1:40 | 96     | [ ] | Authentication & Security                         | JSON Web Tokens (JWT) - Structure, Signing, Verification                                                      |
-| 13/1   |    | 97     | [ ] | Authentication & Security                         | JWT Implementation - Login/Register Routes                                                                       |
+| 13/1   | 1:47   | 97     | [ ] | Authentication & Security                         | JWT Implementation - Login/Register Routes                                                                    7|
 | 13   |  c3:15 | 98     | [ ] | Authentication & Security                         | Protected Routes & Middleware                                                                                  |
 | 13   |    | 99     | [ ] | Authentication & Security                         | Authorization vs Authentication, Role-based Access                                                                 |
 | 13   |    | 100    | [ ] | Authentication & Security                         | Security Best Practices - HTTPS, Environment Variables, Input Validation                                           |
 | 13   |    | 101    | [ ] | Authentication & Security                         | OWASP Top 10                                                                                                       |
-| 13   |  | 102    | [ ] | Authentication & Security                         | **PROJECT** *Major Project #4* - Complete RESTful API with 3rd Party API Integration, Authentication, and MongoDB                  |
+| 13   |    | 102    | [ ] | Authentication & Security                         | **PROJECT** *Major Project #4* - Complete RESTful API with 3rd Party API Integration, Authentication, and MongoDB                  |
 | 14   |    | 103    | [ ] | Full Stack Integration                            | Connecting React to Express API                                                                                |
 | 14   |    | 104    | [ ] | Full Stack Integration                            | Axios Configuration + CORS                                                                                     |
 | 14   |    | 105    | [ ] | Full Stack Integration                            | Environment configuration                                                                                      |
