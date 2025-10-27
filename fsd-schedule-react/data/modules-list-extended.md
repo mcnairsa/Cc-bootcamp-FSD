@@ -83,7 +83,7 @@
 | 11     | 0:49 | 80     | [X] | MongoDB & Mongoose                                | MongoDB Basics, Document Structure                                                                             |
 | 11     | 3:19 | 81     | [ ] | MongoDB & Mongoose                                | MongoDB CRUD Operations                                                                                        |
 | 11     | 3:40 | 82     | [ ] | MongoDB & Mongoose                                | Database best practices                                                                                        |
-| 11     | 0:32 | 83     | [ ] | MongoDB & Mongoose                                | Mongoose Setup                                                                                                 |
+| 11/2   | 0:32 | 83     | [ ] | MongoDB & Mongoose                                | Mongoose Setup                                                                                                 |
 | 11     | 1:54 | 84     | [ ] | MongoDB & Mongoose                                | Schemas, Models, Validation                                                                                    |
 | 11     | 3:35 | 85     | [ ] | MongoDB & Mongoose                                | Relationships, Population                                                                                      |
 | 11     | 4:00 | 86     | [ ] | MongoDB & Mongoose                                | **PROJECT**: Connecting Express to MongoDB with Mongoose                                                       |
@@ -96,13 +96,13 @@
 | 12/2   | 3:25 | 93     | [ ] | Cloud Technologies & RESTful APIs                 | Using Protected APIs                                                                                           |
 | 12/2   | 4:06 | 94     | [ ] | Cloud Technologies & RESTful APIs                 | PROJECT: RESTful API with 3rd Party API Integration and MongoDB                                                |
 | 13/1   | 0:28 | 95     | [ ] | Authentication & Security                         | User Authentication Concepts & Password Security with Bcrypt                                                  |
-| 13/1   | c1:40 | 96     | [ ] | Authentication & Security                         | JSON Web Tokens (JWT) - Structure, Signing, Verification                                                      |
-| 13/1   | 1:47   | 97     | [ ] | Authentication & Security                         | JWT Implementation - Login/Register Routes                                                                    7|
-| 13   |  c3:15 | 98     | [ ] | Authentication & Security                         | Protected Routes & Middleware                                                                                  |
-| 13   |    | 99     | [ ] | Authentication & Security                         | Authorization vs Authentication, Role-based Access                                                                 |
-| 13   |    | 100    | [ ] | Authentication & Security                         | Security Best Practices - HTTPS, Environment Variables, Input Validation                                           |
-| 13   |    | 101    | [ ] | Authentication & Security                         | OWASP Top 10                                                                                                       |
-| 13   |    | 102    | [ ] | Authentication & Security                         | **PROJECT** *Major Project #4* - Complete RESTful API with 3rd Party API Integration, Authentication, and MongoDB                  |
+| 13/1   | 1:48 | 96     | [ ] | Authentication & Security                         | JSON Web Tokens (JWT) - Structure, Signing, Verification                                                      |
+| 13/1   | 2:28 | 97     | [ ] | Authentication & Security                         | JWT Implementation - Login/Register Routes                                                                    7|
+| 13/1   | 3:25 | 98     | [ ] | Authentication & Security                         | Protected Routes & Middleware                                                                                  |
+| 13/2   | 0:31 | 99     | [ ] | Authentication & Security                         | Authorization vs Authentication, Role-based Access *[Note: order of 100 & 101 is reversed]*                    |
+| 13/2   | 2:15 | 100    | [ ] | Authentication & Security                         | Security Best Practices - HTTPS, Environment Variables, Input Validation                                           |
+| 13/2   | 1:28 | 101    | [ ] | Authentication & Security                         | OWASP Top 10                                                                                                       |
+| 13/2   | 3:25 | 102    | [ ] | Authentication & Security                         | **PROJECT** *Major Project #4* - Complete RESTful API with 3rd Party API Integration, Authentication, and MongoDB                  |
 | 14   |    | 103    | [ ] | Full Stack Integration                            | Connecting React to Express API                                                                                |
 | 14   |    | 104    | [ ] | Full Stack Integration                            | Axios Configuration + CORS                                                                                     |
 | 14   |    | 105    | [ ] | Full Stack Integration                            | Environment configuration                                                                                      |
