@@ -22,7 +22,7 @@
 ### **Could Have (Bonus Points):**
 - [X] Semantic HTML5 elements throughout (header, main, section, footer)
 - [X] Additional form fields (subject dropdown, etc.)
-- [X] Enhanced accessibility features [No features added but page checked with WAVE and updated per recommendations].
+- [X] Enhanced accessibility features [page checked with WAVE and updated per recommendations]
 - [X] Multiple contact methods (email, LinkedIn, GitHub)
 - [X] Projects or experience section
 - [X] Creative but professional content *[Why* do *humans call me Craphead?]*
