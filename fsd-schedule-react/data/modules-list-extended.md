@@ -9,14 +9,14 @@
 | 01/2   | 2:26 | 6      | [X] | HTML Fundamentals                                 | HTML Forms & Input Types, Quickbites Survey                                                                    |
 | 01/2   | 3:26 | 7      | [ ] | HTML Fundamentals                                 | **PROJECT**: *Personal Bio Page* (HTML Only)                                                                   |
 | 02/1   | 0:12 | 8      | [ ] | CSS Fundamentals & Layout                         | CSS Basics: Selectors, Rulesets, Properties *CSS Land*                                                         |
-| 02/1   | 2    | 9      | [ ] | CSS Fundamentals & Layout                         | Box Model *Business Card*                                                                                      |
-| 02/1   | 2    | 10     | [ ] | CSS Fundamentals & Layout                         | Typography, Colors, Display & Position *CSS Detective Agency*                                                  |
-| 02     | 3    | 11     | [ ] | CSS Fundamentals & Layout                         | Chrome Dev Tools Intro                                                                                         |
-| 02/2   | 3    | 12     | [ ] | CSS Fundamentals & Layout                         | Flexbox                                                                                                        |
-| 02/2   | 3    | 13     | [ ] | CSS Fundamentals & Layout                         | CSS Grid Layout                                                                                                |
-| 02/2   | 3    | 14     | [ ] | CSS Fundamentals & Layout                         | Specificity, Responsive Design with Media Queries                                                              |
-| 02/2   | 3    | 15     | [ ] | CSS Fundamentals & Layout                         | **PROJECT**: *Styled Landing Page*                                                                             |
-| 03/1   | 4    | 16     | [ ] | Advanced CSS & Frameworks                         | CSS Animations                                                                                                 |
+| 02/1   |      | 9      | [ ] | CSS Fundamentals & Layout                         | Box Model *Business Card*                                                                                      |
+| 02/1   |      | 10     | [ ] | CSS Fundamentals & Layout                         | Typography, Colors, Display & Position *CSS Detective Agency*                                                  |
+| 02     |      | 11     | [ ] | CSS Fundamentals & Layout                         | Chrome Dev Tools Intro                                                                                         |
+| 02/2   |      | 12     | [ ] | CSS Fundamentals & Layout                         | Flexbox                                                                                                        |
+| 02/2   |      | 13     | [ ] | CSS Fundamentals & Layout                         | CSS Grid Layout                                                                                                |
+| 02/2   |      | 14     | [ ] | CSS Fundamentals & Layout                         | Specificity, Responsive Design with Media Queries                                                              |
+| 02/2   |      | 15     | [ ] | CSS Fundamentals & Layout                         | **PROJECT**: *Styled Landing Page*                                                                             |
+| 03/1   |      | 16     | [ ] | Advanced CSS & Frameworks                         | CSS Animations                                                                                                 |
 | 03/1   | 1:20 | 17     | [ ] | Advanced CSS & Frameworks                         | CSS Transitions [?], Transform [?], Advanced Selectors [2:10], Pseudo-elements                          [1:20?]|
 | 03/1   | 2:38 | 18     | [ ] | Advanced CSS & Frameworks                         | Intro to UI Frameworks/Libraries (Pico[2:42], Bootstrap [2:57], Tailwind (brief intro)[3:04], Animate.css, Animista, CSS Animation Kit) |
 | 03/1   |      | 19     | [ ] | Advanced CSS & Frameworks                         | Bootstrap Fundamentals: Components, Utilities, Grid System                                                     |
