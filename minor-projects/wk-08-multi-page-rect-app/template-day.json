@@ -1,0 +1,13 @@
+{
+    "wake-up": {
+        "TEAmatic"
+            {
+            "auto-switch-on": 045700,
+            "boil": 050300,
+            "brewed": 050800
+        },
+        {
+
+        }
+    }
+}

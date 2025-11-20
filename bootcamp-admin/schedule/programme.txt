@@ -1,0 +1,331 @@
+Welcome to the Codecademy Full Stack Developer Bootcamp for Beginners
+We're excited to have you on board for this journey, starting 2nd August 2025. To help you get started
+smoothly, here’s everything you need to know:
+BOOTCAMP SCHED          ULE:
+Session Days: Thursday, Saturday and Sunday
+Session Timings (Across Time Zones):
+• Thursday Session
+India (IST): 10:30 PM – 11:30 PM
+US Eastern Time (ET): 1:00 PM – 2:00 PM
+US Pacific Time (PT): 10:00 AM – 11:00 AM
+UK (BST): 6:00 PM – 7:00 PM
+EU (CET): 7:00 PM – 8:00 PM
+• Weekend Sessions (Saturday & Sunday)
+India (IST): 8:00 PM – 12:00 AM
+US Eastern Time (ET): 10:30 AM – 2:30 PM
+US Pacific Time (PT): 7:30 AM – 11:30 AM
+UK (BST): 3:30 PM – 7:30 PM
+EU (CET): 4:30 PM – 8:30 PM
+IMPORTANT UPDATES & COMMUNICATION
+Please note, all updates regarding live sessions will be posted in the #announcements channel of
+the discord server. Make sure to check Discord regularly!
+LIVE SESSIONS VIA ZOOM
+• You must have a Zoom account to join the live sessions.
+• Please set your Zoom username to your real name for easy identification.
+HOW TO JOIN THE ZOOM SESSIONS?
+1. Log into your Codecademy dashboard and navigate to My Home (top menu).
+2. Find your enrolled bootcamp and check the upcoming session.
+3. Click "Next Session" to open the bootcamp schedule page.
+4. The session link activates 5 minutes before—click it and join!
+In case of any issues, a backup Zoom link will be shared via Discord.
+SESSION RECORDINGS
+Missed a session? No worries!
+• Recordings will be available on the bootcamp schedule page.
+• Click on a past session to view the recording anytime.
+• Past session links will be posted in #announcements channel of the Discord server within
+24 hours.
+CODE PRO ACTIVATION
+Your Code Pro access will be activated on 31st July (Thursday). If it’s not activated, please reach
+out to me via Discord DM.
+To ensure a smooth experience, here are a couple of important notes:
+• If you already have an active Pro subscription, please write to us once your current
+subscription ends so we can extend your 12-month access.
+• If you're currently on a trial plan, you can let the trial expire without making a payment.
+Once it ends, let us know and we’ll activate your Pro access.
+Let’s gear up for an exciting learning journey! If you have any questions, feel free to ask in the
+#general channel. See you in the first session!
+Course Curriculum
+Week Session Details
+Week 1
+HTML
+Fundamentals
+Session 1: Saturday (4 hrs)
+• Onboarding + IDE, AI for Learning, Intro to Web
+Development. HTML5 Document Structure, Doctype,
+Elements, Attributes, Emmet, W3C Validator. Semantic
+Elements, inline, block. Headers, Paragraphs, and MDN
+Docs
+Session 2: Sunday (4 hrs.)
+• Tables, Lists, Links and Navigation. HTML Forms & Input
+Types.
+Session 3: Thursday (1 hr)
+• Problem-solving and doubt resolution session on topics
+from last week.
+Project: Personal Bio Page - HTML structure with semantic markup
+and forms
+Week 2
+CSS
+Fundamentals &
+Layout
+Session 4: Saturday (4 hrs.)
+• CSS Basics: Selectors, Rulesets, Properties. Box Model.
+Typography, Colors, Display & Position. Chrome Dev Tools
+Intro
+Session 5: Sunday (4 hrs.)
+• Flexbox, CSS Grid Layout,
+• Responsive Design with Media Queries
+Session 6: Thursday (1 hr)
+• Problem-solving and doubt resolution session on topics
+from the last week.
+Project - Styled Landing Page - Apply CSS fundamentals with
+responsive layout
+Week 3 Advanced CSS
+& Frameworks
+Session 7: Saturday (4 hrs.)
+• CSS Animations, Transitions, Transform, Advanced
+• Selectors, Pseudo-elements. Intro to UI
+Frameworks/Libraries. Bootstrap Fundamentals:
+Components, Utilities, Grid System
+Session 8: Sunday (4 hrs.)
+• Tailwind Fundamentals. Google Fonts, Font Awesome.
+Session 9: Thursday (1 hr)
+• Problem-solving and doubt resolution session on topics
+from the last week
+Weekly Assignment – Interactive Portfolio Website (Major Project
+#1) - Responsive design with animations and Bootstrap
+Week 4 Git & JavaScript
+Fundamentals
+Session 10: Saturday (4 hrs.)
+• Git Fundamentals: Installation, Repository Setup, Basic
+Commands,
+• Branching and Merging
+• JavaScript Basics: Variables(let/const/var), Data Types.
+Operators, Control Flow, Loops, Conditionals
+Session 11: Sunday (4 hrs.)
+• Functions, Scope. Debugging Intro. GitHub Portfolio Setup
+Session 12: Thursday (1 hr)
+• Problem-solving and doubt resolution session on topics
+from the last week
+Project - GitHub Portfolio Setup & Interactive Calculator - Version
+control workflow and JavaScript logic
+Week 5
+JavaScript
+Advanced &
+DOM
+Session 13: Saturday (4 hrs.)
+• Arrow Functions, Higher Order Functions. Arrays and Array
+Method. Objects and Object Methods. Destructuring, Spread
+Operator
+Session 14: Saturday (4 hrs.)
+• DOM Selection, Manipulation. Events - Handling, Bubbling,
+Event Loop. Form Processing, Local Storage
+Session 15: Thursday (1 hr)
+• Problem-solving and doubt resolution session on topics from the
+last week.
+Project – Todo List App - Advanced JavaScript with DOM
+manipulation and persistent storage
+Week 6
+APIs &
+Asynchronous
+JavaScript
+Session 16: Saturday (4hrs.)
+• Working with APIs, Fetch API, JSON, Error Handling,
+Callbacks, Promises
+Session 17: Sunday (4hrs.)
+• Async/Await. Exploring Free APIs, Postman. Multiple API
+calls, Data Processing, API integration with one or more APIs
+Session 18: Thursday (1 hr)
+• Problem-solving and doubt resolution session on topics from the
+last week.
+Project – Recipe Finder App (Major Project #2) - Complex API
+integration with multiple data sources
+Week 7
+React
+Fundamentals
+Session 19: Saturday (4hrs.)
+• Introduction to React and the Virtual DOM, React vs Vanilla
+JS. JSX, Components, Props. State Management with
+useState. Thinking in React
+Session 20: Sunday (4hrs.)
+• Event Handling, Conditional Rendering,
+• React Lists and Keys, Forms in React
+Session 21: Thursday (1 hr)
+• Problem-solving and doubt resolution session on topics
+from the last week.
+Project – React Counter & Todo App - Component basics and state
+management
+Week 8
+React
+Intermediate
+& Routing
+Session 22: Saturday (4hrs.)
+• Component Lifecycle with useEffect, Side Effects, Cleanup,
+Custom Hooks, React Dev Tools and Debugging
+Session 23: Sunday (4hrs.)
+• React Router Setup, Routes, Links, Navigation, URL
+Parameters, Protected Routes
+Session 24: Thursday (1 hr)
+• Problem-solving and doubt resolution session on topics
+from the last week.
+Project – Multi-page React Application - Advanced component
+interactions with routing
+Week 9
+React State
+Management
+Session 25: Saturday (4hrs.)
+• Context API - useContext. Global State Management, Redux
+Part 1. Global State Management, Redux Part 2. useReducer
+Hook
+Session 26: Sunday (4hrs.)
+• Updating Objects, Arrays, and Queuing. Component
+Optimization, Performance & Best Practices Part 1.
+Component Optimization, Performance & Best Practices
+Part 2.
+Session 27: Thursday (1 hr)
+• Problem-solving and doubt resolution session on topics
+from the last week.
+Project – Shopping Cart Application - Context API for global state
+management
+Week
+10
+Backend
+Introduction &
+Express
+Session 28: Saturday (4hrs.)
+• Introduction to Node.js, NPM, Module System, HTTP
+Concepts, Express.js Setup
+Session 29: Sunday (4hrs.) Express Routing, Middleware,
+Request/Response Objects, Static Files, Error Handling
+Session 30: Thursday (1 hr)
+• Problem-solving and doubt resolution session on topics
+from the last week.
+Project – Express API Server - RESTful routes and middleware
+implementation
+Week
+11
+MongoDB &
+Mongoose
+Session 31: Saturday (4hrs.)
+• Introduction to NoSQL. MongoDB Basics, Document
+Structure. MongoDB CRUD Operations. Database best
+practices
+Session 32: Sunday (4hrs.)
+• Mongoose Setup, Schemas, Models, Validation,
+Relationships, Population
+Session 33: Thursday (1 hr)
+• Problem-solving and doubt resolution session on topics
+from the last week.
+Project – Mongoose Practice - Database design and complex queries
+Week
+12
+Cloud
+Technologies
+and Mongo
+Atlas DB
+Session 34: Saturday (4hrs.)
+• Cloud Services Overview - AWS, Azure, Google Cloud.
+DotEnv / Environment Variables. MongoDB Atlas Setup.
+REST APIs in Depth, RPC vs REST
+Session 35: Sunday (4hrs.)
+• Advanced Rest Concepts. API First Design, Auto Generating
+Docs. Using Protected APIs.
+Session 36: Thursday (1 hr)
+• Problem-solving and doubt resolution session on topics
+from the last week.
+Project – RESTful API with 3rd Party API Integration and MongoDB
+Week
+13
+Authentication
+& Security
+Session 37: Saturday (4hrs.)
+• User Authentication Concepts & Password Security with
+Bcrypt. JSON Web Tokens (JWT) - Structure, Signing,
+Verification. JWT Implementation - Login/Register Routes.
+Protected Routes & Middleware
+Session 38: Sunday (4hrs.)
+• Authorization vs Authentication, Role-based Access.
+Security Best Practices - HTTPS, Environment Variables,
+Input Validation. OWASP
+Session 39: Thursday (1 hr)
+• Problem-solving and doubt resolution session on topics
+from the last week.
+Project #4 - Complete RESTful API with 3rd Party API Integration,
+Authentication, and MongoDB
+Week
+14
+Full Stack
+Integration
+Session 40: Saturday (4hrs.)
+• Connecting React to Express API. Axios Configuration +
+CORS. Environment configuration. Authentication Flow in
+React
+Session 41: Sunday (4hrs.)
+• Protected Components. Error Handling & Loading States.
+PROJECT: Full Stack Authentication - Complete login system
+integration
+Session 42: Thursday (1 hr)
+• Problem-solving and doubt resolution session on topics from the
+last week.
+Project – Full Stack Authentication - Complete login system
+integration
+Week
+15
+Software
+Development
+Life Cycle,
+Agile, Design
+Session 43: Saturday (4hrs.)
+• SDLC Overview, What is Agile?, Stories and Acceptance,
+Criteria, Ceremonies and Artifacts, Prototypes and
+Wireframes
+Session 44: Sunday (4hrs.)
+• MERN Architecture Planning, Project Setup, Database
+Design with Mongoose, Authentication
+Session 45: Thursday (1 hr)
+• Problem-solving and doubt resolution session on topics
+from the last week.
+Project – Major Project #5 - Backend setup with
+authentication
+Week
+16
+Final Project
+Frontend
+Session 46: Saturday (4hrs.)
+• PROJECT CONTINUE: Frontend Setup with React. User
+interface design. Component architecture. State
+management implementation
+Session 47: Sunday (4hrs.)
+• API testing with Postman. Unit testing with Jest. E2E Testing
+with Playwright. Work on Final Project
+Session 48: Thursday (1 hr)
+• Problem-solving and doubt resolution session on topics
+from the last week.
+Week
+17
+Final Project
+Working Day
+Session 49: Saturday (4hrs.)
+• Q&A and Working on Final Project
+Session 50: Sunday (4hrs.)
+• Cloud Deployment Providers and Overview. Development
+vs Production Environments, Build Processes, Observability.
+Frontend vs Backend Deploys, CORS in Production,
+Environment Variables. Final Project Deployment Work
+Session 51: Thursday (1 hr)
+• Problem-solving and doubt resolution session on topics
+from the last week.
+Week
+18
+Career Preparation
+& Graduation
+• Session 52: Sunday (4hrs.)
+Technical Interview Strategies. Coding challenges practice,
+Behavioral Questions. Mock interviews, and Portfolio
+Presentation Techniques. Technical Interview Practice
+Assignments
+• Session 53: Sunday (5 hrs.) Resume Building & Job Search
+Strategies - Professional resume creation. LinkedIn
+optimization, job search platforms, networking strategies,
+and application best practices. Complete professional
+resume and LinkedIn profile.
+• Final Presentations & Graduation Ceremony
